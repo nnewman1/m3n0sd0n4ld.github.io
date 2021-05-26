@@ -1,10 +1,12 @@
 ## Welcome to my comfort zone!
-***
+---
+
 ## Tools
 1. [uDork](https://github.com/m3n0sd0n4ld/uDork):
 uDork is a script written in Bash Scripting that uses advanced Google search techniques to obtain sensitive information in files or directories, find IoT devices, detect versions of web application… 
-2. [uNominaCracker](https://github.com/m3n0sd0n4ld/uNominaCracker): It is a script written in Python that performs brute force on workers' payroll files through the use of their DNI (National Identity Document). 
-***
+2. [uNominaCracker](https://github.com/m3n0sd0n4ld/uNominaCracker): It is a script written in Python that performs brute force on workers' payroll files through the use of their DNI (National Identity Document). .
+
+---
 ## Writeups
 | Name | Platform | Writeup |
 | :--- | :---: | :---: |
@@ -59,12 +61,12 @@ uDork is a script written in Bash Scripting that uses advanced Google search tec
 | Doctor | HackTheBox | [View](https://www.hackingarticles.in/doctor-hackthebox-walkthrough/) |
 | Chaos | HackTheBox | [View](https://www.hackingarticles.in/chaos-hackthebox-walkthrough/) |
 
-***
+---
 ## About
 
 David Utón is Penetration Tester and security auditor for web and mobiles applications, perimeter networks, internal and industrial corporate infrastructures, and wireless networks.
 
 #### Contacted on:
 
-![](imgs/linkedin.png){ width=4% align="center" } [David-Uton](https://www.linkedin.com/in/david-uton/)
-![](imgs/twitter.png){ width=5% align="center" } [@David_Uton](https://twitter.com/David_Uton)
+[Linkedin](https://www.linkedin.com/in/david-uton/)
+[Twitter](https://twitter.com/David_Uton)
