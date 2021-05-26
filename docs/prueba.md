@@ -1,8 +1,8 @@
 #  Esto es una prueba
 ## Testing...
 
-| Name | Plataform | Writeup |
-| ------------- |:-------------:|:-------------:|
-| Test | TryHackMe | [Link](#)
-| Test2 | HackTheBox | [Link](#)
-| Test3 | Vulnhub | [Link](#)
+| Name | Plataform | Level | Writeup |
+| ------------- |:-------------:|:-------------:|:-------------:|
+| Test | TryHackMe | Easy | [Link](#)
+| Test2 | HackTheBox | Hard | [Link](#)
+| Test3 | Vulnhub | Medium | [Link](#)
