@@ -4,3 +4,4 @@
 | Name | Plataform | Writeup |
 | ------------- |:-------------:|:-------------:|
 | Test | TryHackMe | [Link](#)
+| Test2 | HackTheBox | [Link](#)
