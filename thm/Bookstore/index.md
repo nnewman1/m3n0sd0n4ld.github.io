@@ -110,6 +110,7 @@ But even if we are missing a parameter, we can obtain it by reversing the xor wi
 
 With the magic number in our hands, we insert it and we become root and read the flag of *root.txt*.
 
+![](22.png)
 
 ---
 ## About
