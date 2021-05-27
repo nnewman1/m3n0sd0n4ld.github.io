@@ -62,6 +62,14 @@ uDork is a script written in Bash Scripting that uses advanced Google search tec
 | Chaos | HackTheBox | [View](https://www.hackingarticles.in/chaos-hackthebox-walkthrough/) |
 
 ---
+### Events & Conferences
+
+* [Interview: Digitalización industrial en CCI (Centro de Ciberseguridad Industrial)](https://vimeo.com/431392473)
+* [Conference: Voz de la industria sobre la integración de Redes IT/OT - Ciberseguridad Industrial](https://t.co/dXTbGuI56n?amp=1)
+* [Conference: uDork - Google Hacking Tool - Hack&Beers Remake vol 5](https://t.co/ZlkglPYsvN?amp=1)
+* [Conference: uDork - Google Hacking Tool v2.0 - BitUP 2020](https://youtu.be/zzcUdmpo6ow)
+
+---
 ## About
 
 David Utón is Penetration Tester and security auditor for web and mobiles applications, perimeter networks, internal and industrial corporate infrastructures, and wireless networks.
