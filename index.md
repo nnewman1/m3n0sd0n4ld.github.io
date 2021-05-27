@@ -60,6 +60,7 @@ uDork is a script written in Bash Scripting that uses advanced Google search tec
 | Forest | HackTheBox | [View](https://www.hackingarticles.in/forest-hackthebox-walkthrough/) |
 | Doctor | HackTheBox | [View](https://www.hackingarticles.in/doctor-hackthebox-walkthrough/) |
 | Chaos | HackTheBox | [View](https://www.hackingarticles.in/chaos-hackthebox-walkthrough/) |
+| Bookstore | TryHackMe | [View](https://m3n0sd0n4ld.github.io/thm/Bookstore/) |
 
 ---
 ## Events & Conferences
