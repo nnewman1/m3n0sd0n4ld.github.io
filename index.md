@@ -63,6 +63,14 @@ uDork is a script written in Bash Scripting that uses advanced Google search tec
 | Bookstore | TryHackMe | [View](https://m3n0sd0n4ld.github.io/thm/Bookstore/) |
 
 ---
+## Articles
+* [CTF: Aprende «hacking» jugando](https://www.sothis.tech/capture-the-flag-aprende-hacking-jugando/)
+* [Por el router muere el pez](https://www.sothis.tech/por-el-router-muere-el-pez/)
+* [Ciberataques físicos: cuando el peligro está en un USB](https://www.sothis.tech/sistemas-de-control-industrial/)
+* [Black Fraude: cómo evitar las estafas en rebajas](https://www.sothis.tech/black-fraude-como-evitar-las-estafas-en-rebajas/)
+* [El Coronavirus, una excusa más para los ciberdelincuentes](https://www.sothis.tech/ciberseguridad-aplicada-al-coronavirus/)
+
+---
 ## Events & Conferences
 
 * [Interview: Digitalización industrial en CCI (Centro de Ciberseguridad Industrial)](https://vimeo.com/431392473)
