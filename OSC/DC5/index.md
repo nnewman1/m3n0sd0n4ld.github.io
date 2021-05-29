@@ -68,6 +68,7 @@ Perfect! Well, we are not going to complicate and we are going to execute direct
 
 ## Privilege Escalation
 We ran some of our favorite recognition scripts (Ex. linpeas.sh) and listed a "**Screen**" in version 4.5.0.
+
 ![](16.png)
 
 This binary has a known exploit that would allow us to escalate root privileges: [GNU Screen 4.5.0 - Local Privilege Escalation](https://www.exploit-db.com/exploits/41154)
