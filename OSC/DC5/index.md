@@ -45,8 +45,6 @@ Perfect, now we will do some tests to know the file that could help us to execut
 
 Great, having clear in which file we can evidence code execution, let's make a proof of concept that allows us to execute remote system commands.
 
-We read the flag of *user.txt*.
-
 #### PoC Log Poisoning + RCE
 ![](12.png)
 
@@ -54,6 +52,8 @@ We read the flag of *user.txt*.
 ![](13.png)
 
 Perfect! Well, we are not going to complicate and we are going to execute directly a reverse shell, but remember to put a **netcat** on the listen in our Kali.
+
+We read the flag of *user.txt*.
 
 #### Payload
 ```php
