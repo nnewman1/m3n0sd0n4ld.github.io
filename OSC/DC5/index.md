@@ -1,5 +1,5 @@
 # DC5 Offensive Security Community Writeup
-## Level: `Intermediate` | OS: `Linux`
+### Level: `Intermediate` | OS: `Linux`
 
 ![logo](1.png)
 
