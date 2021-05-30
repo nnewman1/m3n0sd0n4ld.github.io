@@ -1,6 +1,6 @@
 # DC5 Offensive Security Community Writeup
 ## Level: Intermediate
-## S.O: Linux
+## OS: Linux
 
 ![logo](1.png)
 
