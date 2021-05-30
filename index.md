@@ -88,4 +88,4 @@ David Utón is Penetration Tester and security auditor for web and mobiles appli
 #### Contacted on:
 
 <img src='imgs/linkedin.png' width='40' align='center'> [David-Uton](https://www.linkedin.com/in/david-uton/)
-<img src='imgs/twitter.png' width='50' align='center'> [@David_Uton](https://twitter.com/David_Uton)
+<img src='imgs/twitter.png' width='40' align='center'> [@David_Uton](https://twitter.com/David_Uton)
