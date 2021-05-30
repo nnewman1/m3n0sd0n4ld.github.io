@@ -10,23 +10,29 @@ We launch nmap with scripts and software versions on all ports.
 
 ## Enumeration
 We access the website, we see that it is a simple application that collects the ID of a youtube video.
+
 ![](3.png)
 
 We use **dirsearch** and list an interesting directory.
+
 ![](6.png)
 
 We entry the *"/*******/"* directory and list a basic authentication panel.
+
 ![](4.png)
 
 We continue reviewing the variable *"yt_url"* of the web application, investigating by Google I find this [github:](https://github.com/ytdl-org/youtube-dl/) where it shows us useful commands.
 
 #### --version
+
 ![](7.png)
 
 The **"--exec"** command not working....It seems that there are problems with the coding, looking for a way to solve the problem I discovered a way to be able to execute the **"ls"** command without problems.
+
 ![](8.png)
 
 Okay, so let's use the payload so we can read the first flag.
+
 ![](9.png)
 
 
@@ -40,6 +46,7 @@ We create a pentestmonkey reverse shell, raise a python server, set a netcat lis
 ```
 
 #### Reverse shell
+
 ![](11.png)
 
 Once we have access to the inside of the machine, we read the file *".htpasswd"* and crack the hash with the dictionary **"rockyou.txt"**.
@@ -47,6 +54,7 @@ Once we have access to the inside of the machine, we read the file *".htpasswd"*
 ![](12.png)
 
 #### Cracking with JTR
+
 ![](13.png)
 
 ## Privilege Escalation
