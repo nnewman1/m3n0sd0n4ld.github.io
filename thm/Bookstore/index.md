@@ -1,5 +1,6 @@
 # Bookstore TryHackMe Writeup
 ## Level: Medium
+## OS: Linux
 
 ![logo](logo.jpeg)
 
