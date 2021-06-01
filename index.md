@@ -64,6 +64,7 @@ uDork is a script written in Bash Scripting that uses advanced Google search tec
 | DC5 | Offensive Security Community | [View](https://m3n0sd0n4ld.github.io/OSC/DC5/) |
 | ConvertMyVideo | TryHackMe | [View](https://m3n0sd0n4ld.github.io/thm/ConvertMyVideo/) |
 | USTOUN | TryHackMe | [View](https://m3n0sd0n4ld.github.io/thm/USTOUN/) |
+| GoldenEye | TryHackMe | [View](https://m3n0sd0n4ld.github.io/thm/GoldenEye/) |
 
 ---
 ## Articles
