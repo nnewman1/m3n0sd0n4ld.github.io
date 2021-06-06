@@ -67,6 +67,7 @@ uDork is a script written in Bash Scripting that uses advanced Google search tec
 | GoldenEye | TryHackMe | [View](https://m3n0sd0n4ld.github.io/thm/GoldenEye/) |
 | Lunizz CTF (Patched) | TryHackMe | [View](https://m3n0sd0n4ld.github.io/thm/LunizzCTF/) |
 | Cat Pictures | TryHackMe | [View](https://m3n0sd0n4ld.github.io/thm/CatPictures/) |
+| Wgel CTF | TryHackMe | [View](https://m3n0sd0n4ld.github.io/thm/WgelCTF/) |
 
 ---
 ## Articles
