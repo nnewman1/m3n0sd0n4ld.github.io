@@ -68,7 +68,9 @@ We run **nano** with sudo calling the text file, there we will execute commands 
 
 #### Some of the flags found (the idea was just to root the machine)
 ![](14.png)
+
 ![](14-2.png)
+
 ![](14-3.png)
 
 ---
