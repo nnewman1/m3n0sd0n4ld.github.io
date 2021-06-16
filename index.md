@@ -73,6 +73,7 @@ uDork is a script written in Bash Scripting that uses advanced Google search tec
 | KoTH Food CTF | TryHackMe | [View](https://m3n0sd0n4ld.github.io/thm/KoTH-Food-CTF/) |
 | KoTH Hackers | TryHackMe | [View](https://m3n0sd0n4ld.github.io/thm/KoTH-Hackers/) |
 | The Blob Blog | TryHackMe | [View](https://m3n0sd0n4ld.github.io/thm/The-Blob-Blog/) |
+| Mustacchio | TryHackMe | [View](https://m3n0sd0n4ld.github.io/thm/Mustacchio/) |
 
 ---
 ## Articles
