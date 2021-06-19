@@ -75,6 +75,7 @@ uDork is a script written in Bash Scripting that uses advanced Google search tec
 | The Blob Blog | TryHackMe | [View](https://m3n0sd0n4ld.github.io/thm/The-Blob-Blog/) |
 | Mustacchio | TryHackMe | [View](https://m3n0sd0n4ld.github.io/thm/Mustacchio/) |
 | Harder | TryHackMe | [View](https://m3n0sd0n4ld.github.io/thm/Harder/) |
+| Fusion Corp | TryHackMe | [View](https://m3n0sd0n4ld.github.io/thm/Fusion-Corp/) |
 
 ---
 ## Articles
