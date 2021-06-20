@@ -71,7 +71,7 @@ We connect with our user and read the administrator flag.
 
 Once we have gained access, it is time to obtain the hashes of the most relevant users.
 
-#### NTML HASHES
+#### NTLM HASHES
 ![](18.png)
 
 #### Commitment Active Directory
