@@ -10,6 +10,7 @@ We run nmap on all ports with scripts and software versions.
 
 ## Enumeration
 We use **curl** tool and we headers enumerate, we view "*PHP/8.1.0-dev*", this version have a exploit for **RCE** (Remote Code Execute).
+
 ![](3.png)
 
 
@@ -21,6 +22,7 @@ We search exploit in "**exploit-db.com**", we download the exploit and execute:
 ![](4.png)
 
 We read *user.txt* file:
+
 ![](5.png)
 
 ## Privilege Escalation
