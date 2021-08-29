@@ -17,7 +17,7 @@ We use **curl** tool and we headers enumerate, we view "*PHP/8.1.0-dev*", this v
 ## Exploitation
 We search exploit in "**exploit-db.com**", we download the exploit and execute:
 
-**Exploit**: https://www.exploit-db.com/raw/49933
+**Exploit**: [https://www.exploit-db.com/raw/49933](https://www.exploit-db.com/raw/49933)
 
 ![](4.png)
 
