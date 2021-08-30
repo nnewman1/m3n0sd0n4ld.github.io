@@ -7,6 +7,7 @@ uDork is a script written in Bash Scripting that uses advanced Google search tec
 
 ---
 ## Exploits
+
 | Software | CVE | Link |
 | --- | :---: | :---: |
 | SUDO | CVE-2021-3156 (Checker) | [Link](https://github.com/m3n0sd0n4ld/CVE-Exploits/tree/main/CVE-2021-3156) |
