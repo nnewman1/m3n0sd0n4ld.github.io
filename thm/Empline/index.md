@@ -91,6 +91,7 @@ Edit the file "*/etc/passwd*" and create the user "*m3n0sd0n4ld*", add the passw
 ![](23.png)
 
 We authenticate with the user "*m3n0sd0n4ld*", we see that we are root and we read the root.txt flag.
+
 ![](24.png)
 
 ---
