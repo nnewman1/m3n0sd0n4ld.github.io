@@ -1,11 +1,9 @@
 # Empline TryHackMe Writeup
 ### Level: `Medium` | OS: `Linux`
-
 ![logo](1.png)
 
 ## Scanning
 We run nmap on all ports with scripts and software versions.
-
 ![](2.png)
 
 ## Enumeration
