@@ -10,6 +10,7 @@ uDork is a script written in Bash Scripting that uses advanced Google search tec
 
 | Software | CVE | Link |
 | --- | :---: | :---: |
+| WordPress 5.7 - 'Media Library' XML External Entity Injection (XXE) (Authenticated) | CVE-2021-29447 | [Link](https://www.exploit-db.com/exploits/50304) |
 | SUDO | CVE-2021-3156 (Checker) | [Link](https://github.com/m3n0sd0n4ld/CVE-Exploits/tree/main/CVE-2021-3156) |
 | Strapi < 3.0.0-beta.17.7 | CVE-2019-19609 | [Link](https://www.exploit-db.com/exploits/50238) |
 
