@@ -109,6 +109,7 @@ uDork is a script written in Bash Scripting that uses advanced Google search tec
 * [Conference: Voz de la industria sobre la integración de Redes IT/OT - Ciberseguridad Industrial](https://t.co/dXTbGuI56n?amp=1)
 * [Conference: uDork - Google Hacking Tool - Hack&Beers Remake vol 5](https://t.co/ZlkglPYsvN?amp=1)
 * [Conference: uDork - Google Hacking Tool v2.0 - BitUP 2020](https://youtu.be/zzcUdmpo6ow)
+* [Conference: MailDay - Hackterriza como puedas - BitUP 2021](https://youtu.be/efpL9KAW3Fo?t=33410)
 
 ---
 ## About
