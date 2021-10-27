@@ -93,6 +93,7 @@ uDork is a script written in Bash Scripting that uses advanced Google search tec
 | Knife | HackTheBox | [View](https://m3n0sd0n4ld.github.io/htb/Knife/) |
 | Empline | TryHackMe | [View](https://m3n0sd0n4ld.github.io/thm/Empline/) |
 | IDE | TryHackMe | [View](https://m3n0sd0n4ld.github.io/thm/IDE/) |
+| Zeno | TryHackme | [View](https://m3n0sd0n4ld.github.io/thm/zeno/)
 
 ---
 ## Articles
