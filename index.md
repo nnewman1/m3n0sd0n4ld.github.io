@@ -22,7 +22,7 @@ uDork is a script written in Bash Scripting that uses advanced Google search tec
 <p>
 
 | Name | Level | OS | Tags | Writeup |
-| --- | :---: | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: |
 | Resolute | `Medium`  | `Windows` | `#smb #evil-winrm #password-spray #crackmapexec` | [View](https://github.com/m3n0sd0n4ld/writeups/blob/master/pdfs/Resolute%20-%20hackthebox.pdf) |
 | Monteverde | `Medium`  | `Windows` | `#enum4linux #smb #evil-winrm #powershell #AzureAD` | [View](https://www.hackingarticles.in/hack-the-box-monteverde-walkthrough) |
 | Sauna | `Easy`  | `Windows` | `#GetNPUsers.py #John #mimikatz #winPEAS` | [View](https://www.hackingarticles.in/hackthebox-sauna-walkthrough/) |
@@ -43,7 +43,7 @@ uDork is a script written in Bash Scripting that uses advanced Google search tec
 <p>
 
 | Name | Level | OS | Tags | Writeup |
-| --- | :---: | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: |
 | Relevant | `Medium`  | `Windows` | `#smb #cmdasp` | [View](https://www.hackingarticles.in/relevant-tryhackme-walkthrough/) |
 | Startup | `Easy`  | `Linux` | `#wireshark #cron #gobuster` | [View](https://www.hackingarticles.in/startup-tryhackme-walkthrough/) |
 | Internal | `Hard`  | `Linux` | `#WP #Jenkins` | [View](https://www.hackingarticles.in/internal-tryhackme-walkthrough/) |
@@ -82,7 +82,7 @@ uDork is a script written in Bash Scripting that uses advanced Google search tec
 <p>
 
 | Name | Level | OS | Tags | Writeup |
-| --- | :---: | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: |
 | VulnUni | `Medium` | `Linux` | `#eClass #SQLi #DirtyCow` | [View](https://github.com/m3n0sd0n4ld/writeups/blob/master/pdfs/VulnUni%20-%20vulnhub.pdf) |
 | Recon:1 | `Easy` | `Linux` | `#WP #SUDO #gdb` | [View](https://github.com/m3n0sd0n4ld/writeups/blob/master/pdfs/Recon-1%20-%20vulnhub.pdf) |
 | CK-00 | `Easy` | `Linux` | `#WP #SUDO #scp` | [View](https://github.com/m3n0sd0n4ld/writeups/blob/master/pdfs/CK-00%20-%20vulnhub.pdf) |
@@ -125,7 +125,7 @@ uDork is a script written in Bash Scripting that uses advanced Google search tec
 <p>
 
 | Name | Level | OS | Tags | Writeup |
-| --- | :---: | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: |
 | DC5 | `Easy` | `Linux` | `#web #waf #xor #RCE` | [View](https://m3n0sd0n4ld.github.io/OSC/DC5/) |
 
 </p>
@@ -133,13 +133,11 @@ uDork is a script written in Bash Scripting that uses advanced Google search tec
 
 <br>
 <details><summary><img src='imgs/uam.png' width='200' align='center'></summary>
-<p>
 
 | Name | Level | OS | Tags | Writeup |
-| --- | :---: | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: |
 | El coche fantástico | `Easy` | `Linux` | `#LFI #RCE #Nginx #log #poison #SETUID #screen` | [View](https://github.com/m3n0sd0n4ld/writeups/blob/master/pdfs/UAM%20-%20El%20coche%20fant%C3%A1stico%20-%20Episodio%201.pdf) |
 
-</p>
 </details>
 
 ---
