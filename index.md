@@ -112,7 +112,7 @@ uDork is a script written in Bash Scripting that uses advanced Google search tec
 
 | Name | Level | OS | Tags | Writeup |
 | --- | :---: | :---: | :---: | :---: |
-| DC5 | `Easy` | `Linux` | `#web #waf #xor #RCE` | [View](https://m3n0sd0n4ld.github.io/OSC/DC5/) | |
+| DC5 | `Easy` | `Linux` | `#web #waf #xor #RCE` | [View](https://m3n0sd0n4ld.github.io/OSC/DC5/) |
 
 <img src='imgs/uam.png' width='200' align='center'>
 
