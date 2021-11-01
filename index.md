@@ -140,6 +140,10 @@ uDork is a script written in Bash Scripting that uses advanced Google search tec
 
 </details>
 
+| Name | Level | OS | Tags | Writeup |
+| --- | :---: | :---: | :---: | :---: |
+| El coche fantástico | `Easy` | `Linux` | `#LFI #RCE #Nginx #log #poison #SETUID #screen` | [View](https://github.com/m3n0sd0n4ld/writeups/blob/master/pdfs/UAM%20-%20El%20coche%20fant%C3%A1stico%20-%20Episodio%201.pdf) |
+
 ---
 
 ## Articles
