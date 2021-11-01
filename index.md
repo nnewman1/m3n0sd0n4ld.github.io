@@ -18,7 +18,7 @@ uDork is a script written in Bash Scripting that uses advanced Google search tec
 
 ## Writeups
 
-<details><summary><img src='imgs/hackthebox.png' width='200' align='center'></summary>
+<img src='imgs/hackthebox.png' width='200' align='center'>
 <p>
 
 | Name | Level | OS | Tags | Writeup |
@@ -37,9 +37,10 @@ uDork is a script written in Bash Scripting that uses advanced Google search tec
 | Knife | `Easy`  | `Linux` | `#PHP8 #RCE #SUDO #Knife` | [View](https://m3n0sd0n4ld.github.io/htb/Knife/) |
   
 </p>
-</details>
+
 <br>
-<details><summary><img src='imgs/tryhackme.png' width='200' align='center'></summary>
+
+<img src='imgs/tryhackme.png' width='200' align='center'>
 <p>
 
 | Name | Level | OS | Tags | Writeup |
@@ -75,7 +76,6 @@ uDork is a script written in Bash Scripting that uses advanced Google search tec
 | Zeno | `Medium` | `Linux` | `#RestaurantManagerSystem #SQLi #RCE #services #SUDO #reboot` | [View](https://m3n0sd0n4ld.github.io/thm/zeno/) |
   
 </p>
-</details>
 
 <br>
 <details><summary><img src='imgs/vulnhub.png' width='200' align='center'></summary>
