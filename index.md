@@ -18,10 +18,14 @@ uDork is a script written in Bash Scripting that uses advanced Google search tec
 
 ## Writeups
 <details>
-  <summary><img src='imgs/hackthebox.png' width='200' align='center'></summary>
   
-<p>
-| Name | Level | OS | Tags | Writeup |
+  <summary>    
+    <img src='imgs/hackthebox.png' width='200' align='center'>
+    </summary>
+  
+  <p>
+  
+| Name | Level | OS | Tags2 | Writeup |
 | --- | :---: | :---: | :---: | :---: |
 | Resolute | `Medium`  | `Windows` | `#smb #evil-winrm #password-spray #crackmapexec` | [View](https://github.com/m3n0sd0n4ld/writeups/blob/master/pdfs/Resolute%20-%20hackthebox.pdf) |
 | Monteverde | `Medium`  | `Windows` | `#enum4linux #smb #evil-winrm #powershell #AzureAD` | [View](https://www.hackingarticles.in/hack-the-box-monteverde-walkthrough) |
@@ -35,7 +39,9 @@ uDork is a script written in Bash Scripting that uses advanced Google search tec
 | Chaos | `Medium`  | `Linux` | `#WP #Roundcube #crypto #Firefox` | [View](https://www.hackingarticles.in/chaos-hackthebox-walkthrough/) |
 | Armageddon | `Easy`  | `Linux` | `#Drupal #Drupalgeddon2 #Snap` | [View](https://m3n0sd0n4ld.github.io/htb/Armageddon/) |
 | Knife | `Easy`  | `Linux` | `#PHP8 #RCE #SUDO #Knife` | [View](https://m3n0sd0n4ld.github.io/htb/Knife/) |
-</p>
+
+  </p>
+
 </details>
 
 <br>
