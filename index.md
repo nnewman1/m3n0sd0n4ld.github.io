@@ -90,8 +90,7 @@ uDork is a script written in Bash Scripting that uses advanced Google search tec
 | eLection: 1 | `Medium` | `Linux` | `#eLection #OSINT #SQLi #` | [View](https://www.hackingarticles.in/election-1-vulnhub-walkthorugh/) |
 | Sunset: decoy | `Easy` | `Linux` | `#zip #john #chkrootkit` | [View](https://www.hackingarticles.in/sunset-decoy-vulnhub-walkthrough/) |
 | CyberSploit: 1 | `Easy` | `Linux` | `#crypto #overlays` | [View](https://www.hackingarticles.in/cybersploit-1-vulnhub-walkthrough/) |
-| Pwned: 1 | `Easy` | `Linux` | `#SSH #group #docker` | [View](https://www.hackingarticles.in/pwned-1-vulnhub-walkthorugh/) 
-|
+| Pwned: 1 | `Easy` | `Linux` | `#SSH #group #docker` | [View](https://www.hackingarticles.in/pwned-1-vulnhub-walkthorugh/) |
 | BlackRose: 1 | `Hard` | `Linux` | `#byPass #PHP #strcmp #id.so #reversing #ghidra #waf` | [View](https://www.hackingarticles.in/blackrose-1-vulnhub-walkthrough/) |
 | GreenOptic: 1 | `Hard` | `Linux` | `#LFI #wireshark #group` | [View](https://www.hackingarticles.in/greenoptic-1-vulnhub-walkthrough/)
 | Presidential: 1 | `Hard` | `Linux` | `#LFI #RCE #phpmyadmin #capabilities #tar` | [View](https://www.hackingarticles.in/presidential-1-vulnhub-walkthrough/) |
