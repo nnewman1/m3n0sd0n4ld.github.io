@@ -35,8 +35,8 @@ uDork is a script written in Bash Scripting that uses advanced Google search tec
 | Armageddon | `Easy`  | `Linux` | `#Drupal #Drupalgeddon2 #Snap` | [View](https://m3n0sd0n4ld.github.io/htb/Armageddon/) |
 | Knife | `Easy`  | `Linux` | `#PHP8 #RCE #SUDO #Knife` | [View](https://m3n0sd0n4ld.github.io/htb/Knife/) |
 
-<details><summary><img src='imgs/tryhackme.png' width='200' align='center'></summary>
-<p>
+<img src='imgs/tryhackme.png' width='200' align='center'>
+
 
 | Name | Level | OS | Tags | Writeup |
 | --- | :---: | :---: | :---: | :---: |
@@ -69,12 +69,8 @@ uDork is a script written in Bash Scripting that uses advanced Google search tec
 | Empline |  `Medium` | `Linux` | `#opencats #XXE #capabilities #ruby` | [View](https://m3n0sd0n4ld.github.io/thm/Empline/) |
 | IDE |  `Easy` | `Linux` | `#Codiad #RCE #services` | [View](https://m3n0sd0n4ld.github.io/thm/IDE/) |
 | Zeno | `Medium` | `Linux` | `#RestaurantManagerSystem #SQLi #RCE #services #SUDO #reboot` | [View](https://m3n0sd0n4ld.github.io/thm/zeno/)
-</p>
-</details>
 
-<br>
-<details><summary><img src='imgs/vulnhub.png' width='200' align='center'></summary>
-<p>
+<img src='imgs/vulnhub.png' width='200' align='center'>
 
 | Name | Level | OS | Tags | Writeup |
 | --- | :---: | :---: | :---: | :---: |
@@ -111,28 +107,18 @@ uDork is a script written in Bash Scripting that uses advanced Google search tec
 | Tempus Fugit: 3 | `Hard` | `Linux` | `#SSTI #SQLite #Processwire #OPT #Google #reversing #abuse #binary` | [View](https://www.hackingarticles.in/tempus-fugit-3-vulnhub-walkthrough/) |
 | KB-Vulns: 3 | `Easy` | `Linux` | `#smb #SiteMagicCMS #SETUID #systemctl` | [View](https://www.hackingarticles.in/kb-vuln-3-vulnhub-walkthrough/) |
 | Cybox: 1 | `Medium` | `Linux` | `#LFI #RCE #Apache #poison #SETUID #uncommon` | [View](https://www.hackingarticles.in/cybox-1-vulnhub-walkthrough/) |
-</p>
-</details>
 
-<br>
-<details><summary><img src='imgs/offensivesecurity.png' width='250' align='center'></summary>
-<p>
+<img src='imgs/offensivesecurity.png' width='250' align='center'>
 
 | Name | Level | OS | Tags | Writeup |
 | --- | :---: | :---: | :---: | :---: |
 | DC5 | `Easy` | `Linux` | `#web #waf #xor #RCE` | [View](https://m3n0sd0n4ld.github.io/OSC/DC5/) | |
-</p>
-</details>
 
-<br>
-<details><summary><img src='imgs/uam.png' width='200' align='center'></summary>
-<p>
+<img src='imgs/uam.png' width='200' align='center'>
 
 | Name | Level | OS | Tags | Writeup |
 | --- | :---: | :---: | :---: | :---: |
 | El coche fantástico | `Easy` | `Linux` | `#LFI #RCE #Nginx #log #poison #SETUID #screen` | [View](https://github.com/m3n0sd0n4ld/writeups/blob/master/pdfs/UAM%20-%20El%20coche%20fant%C3%A1stico%20-%20Episodio%201.pdf) |
-</p>
-</details>
 
 ---
 
