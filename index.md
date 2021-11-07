@@ -69,7 +69,8 @@ uDork is a script written in Bash Scripting that uses advanced Google search tec
 | Couch | `Easy` | `Linux` | `#CouchDB #docker` | [View](https://m3n0sd0n4ld.github.io/thm/Couch/) |
 | Empline |  `Medium` | `Linux` | `#opencats #XXE #capabilities #ruby` | [View](https://m3n0sd0n4ld.github.io/thm/Empline/) |
 | IDE |  `Easy` | `Linux` | `#Codiad #RCE #services` | [View](https://m3n0sd0n4ld.github.io/thm/IDE/) |
-| Zeno | `Medium` | `Linux` | `#RestaurantManagerSystem #SQLi #RCE #services #SUDO #reboot` | [View](https://m3n0sd0n4ld.github.io/thm/zeno/)
+| Zeno | `Medium` | `Linux` | `#RestaurantManagerSystem #SQLi #RCE #services #SUDO #reboot` | [View](https://m3n0sd0n4ld.github.io/thm/zeno/) |
+| Minotaur’s Labyrinth | `Medium` | `Linux`| `#API #SQLi #Time-based #CommandInjection #script` | [View](https://m3n0sd0n4ld.github.io/thm/Minotaurs-Labyrinth/) |
 
 <img src='imgs/vulnhub.png' width='200' align='center'>
 
