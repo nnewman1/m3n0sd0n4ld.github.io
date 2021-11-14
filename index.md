@@ -34,6 +34,9 @@ uDork is a script written in Bash Scripting that uses advanced Google search tec
 | Chaos | `Medium`  | `Linux` | `#WP #Roundcube #crypto #Firefox` | [View](https://www.hackingarticles.in/chaos-hackthebox-walkthrough/) |
 | Armageddon | `Easy`  | `Linux` | `#Drupal #Drupalgeddon2 #Snap` | [View](https://m3n0sd0n4ld.github.io/htb/Armageddon/) |
 | Knife | `Easy`  | `Linux` | `#PHP8 #RCE #SUDO #Knife` | [View](https://m3n0sd0n4ld.github.io/htb/Knife/) |
+| BountyHunter | `Easy`  | `Linux` | | Private |
+| Explore | `Easy`  | `Android` | | Private |
+| Previse | `Easy`  | `Linux` | | Private |
 | Driver | `Easy`| `Windows`| | Private |
 | Bolt | `Medium`| `Linux`| | Private |
 
