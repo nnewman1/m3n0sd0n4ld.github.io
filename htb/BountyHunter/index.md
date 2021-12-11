@@ -13,7 +13,7 @@ We access the web resource and review the source code.
 
 ![](3.png)
 
-#### Coomented code
+#### Commented code
 ![](4.png)
 
 We launch **dirsearch**, list some interesting files and directories.
