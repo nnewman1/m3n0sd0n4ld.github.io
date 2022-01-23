@@ -22,7 +22,7 @@ We access and find a phrase that sounds familiar, doesn't it?
 
 ![](5.png)
 
-Nmap showed us that a Nagios log server is deployed. Searching for information I found this interesting article: https://www.nagios.com/news/2021/12/update-on-apache-log4j-vulnerability/
+Nmap showed us that a Nagios log server is deployed. Searching for information I found this [interesting article](https://www.nagios.com/news/2021/12/update-on-apache-log4j-vulnerability/)
 
 ![](6.png)
 
@@ -33,7 +33,7 @@ As we do not have a control panel, I had to test a "PoC" payload on each header.
 ![](7.png)
 
 ### Reverse shell
-Exploit: https://github.com/pimps/JNDI-Exploit-Kit
+Exploit: [https://github.com/pimps/JNDI-Exploit-Kit](https://github.com/pimps/JNDI-Exploit-Kit)
 
 I downloaded the exploit and inserted a typical **Pentestemonkey** reverse shell, it worked without any problem as we can see in the following images.
 
