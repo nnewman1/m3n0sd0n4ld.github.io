@@ -35,7 +35,7 @@ As we do not have a control panel, I had to test a "PoC" payload on each header.
 ### Reverse shell
 Exploit: [https://github.com/pimps/JNDI-Exploit-Kit](https://github.com/pimps/JNDI-Exploit-Kit)
 
-I downloaded the exploit and inserted a typical **Pentestemonkey** reverse shell, it worked without any problem as we can see in the following images.
+I downloaded the exploit and inserted a typical **Pentestmonkey** reverse shell, it worked without any problem as we can see in the following images.
 
 ![](9.png)
 
