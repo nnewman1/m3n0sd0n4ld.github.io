@@ -16,7 +16,7 @@ We access to service on 8021 port, this service have exploit for RCE without aut
 
 ## Exploitation
 
-#### Exploit used: https://www.exploit-db.com/exploits/47799 
+#### Exploit used: [https://www.exploit-db.com/exploits/47799 ](https://www.exploit-db.com/exploits/47799)
 
 We see is working! 
 
@@ -42,7 +42,7 @@ We download the "**Winpeas**" tool, identify a software called "**OpenClinic**" 
 ![](8.png)
 
 There is a local exploit for privilege escalation:
-#### Exploit used: https://www.exploit-db.com/exploits/50448
+#### Exploit used: [https://www.exploit-db.com/exploits/50448](https://www.exploit-db.com/exploits/50448)
 
 We create a malicious binary with "**msfvenom**" with a reverse shell to our machine on port 5555.
 ![](9.png)
