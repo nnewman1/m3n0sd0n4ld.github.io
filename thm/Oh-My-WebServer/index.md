@@ -5,16 +5,13 @@
 
 ## Scanning
 We run nmap on all ports with scripts and software versions.
-
 ![](2.png)
 
 ## Enumeration
 We access the website and find this page of an active web server:
-
 ![](3.png)
 
 We launch **dirsearch** to search for existing directories or files that may be relevant for other attacks.
-
 ![](4.png)
 
 
@@ -41,7 +38,6 @@ It looks like we are on a docker machine and we will need to exit the docker and
 
 ## Privilege Escalation
 There is a script in "*/tmp*"
-
 ![](8.png)
 
 The file includes a github to a CVE, reading about this CVE allows privilege escalation on the system.
@@ -49,16 +45,13 @@ The file includes a github to a CVE, reading about this CVE allows privilege esc
 ### Exploit: [https://github.com/midoxnet/CVE-2021-38647](https://github.com/midoxnet/CVE-2021-38647)
 
 #### PoC
-
 ![](9.png)
 
 We list the root directory, we could "cheat" and read the flag directly, but the idea is to exploit the vulnerability and get privilege escalation as root.
-
 ![](10.png)
 
 We see that the "*id_rsa*" file does not exist, but the "*authorized_keys*" file does exist, remember that the machine has the **SSH** service open, so we will take advantage of the vulnerability to transfer our public key to the file and enter by **SSH** with the "*root*" user.
 ![](11.png)
-
 
 We put our public key in the file "*authorized_keys*" exploiting the vulnerability "**OMIGOD**".
 ![](12.png)
@@ -68,7 +61,6 @@ We connect via **SSH** with our private key and read the root flag.
 
 I almost forgot! We still need to identify the user flag, let's do a **find** in the root directory and we will get it easily.
 ![](14.png)
-
 ---
 ## About
 
