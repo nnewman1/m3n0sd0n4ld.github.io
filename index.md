@@ -32,8 +32,6 @@ uDork is a script written in Bash Scripting that uses advanced Google search tec
 | [ConvertMyVideo](https://m3n0sd0n4ld.github.io/thm/ConvertMyVideo/) | `Medium` | `Linux` | `#commandinjection #cracking #cron` |
 | [USTOUN](https://m3n0sd0n4ld.github.io/thm/USTOUN/) | `Medium` | `Windows` | `#AD #RID #crackmapexec #mssqlclient.py` |
 | [GoldenEye](https://m3n0sd0n4ld.github.io/thm/GoldenEye/) | `Medium` | `Linux` | `#hydra #telnet #pop3 #aspell #commandInjection #overlays` |
-| [Lunizz CTF (Patched)](https://m3n0sd0n4ld.github.io/thm/LunizzCTF/) | `Medium` | `Linux` | `#CommandInjection #mysql #bcrypt #python #cipher` |
-| [Cat Pictures](https://m3n0sd0n4ld.github.io/thm/CatPictures/) | `Easy` | `Linux` | `#phpbb #docker #cron` |
 
 <img src='imgs/vulnhub.png' width='200' align='center'>
 
