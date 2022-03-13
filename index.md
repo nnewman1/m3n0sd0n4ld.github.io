@@ -47,7 +47,6 @@ uDork is a script written in Bash Scripting that uses advanced Google search tec
 | [EnterPrize](https://m3n0sd0n4ld.github.io/thm/EnterPrize/) | `Hard` | `Linux` | `#typo3 #libcustom.so #norootsquash` |
 | [Mnemonic](https://m3n0sd0n4ld.github.io/thm/Mnemonic/) | `Medium` | `Linux` | `#cracking #python #script` |
 | [Undiscovered](https://m3n0sd0n4ld.github.io/thm/Undiscovered/) | `Medium` | `Linux` | `#riteCMS #RCE #norootsquash` |
-| [Couch](https://m3n0sd0n4ld.github.io/thm/Couch/) | `Easy` | `Linux` | `#CouchDB #docker` |
 
 <img src='imgs/vulnhub.png' width='200' align='center'>
 
