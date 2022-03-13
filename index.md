@@ -37,6 +37,7 @@ uDork is a script written in Bash Scripting that uses advanced Google search tec
 | Explore (**private**) | `Easy` | `Android` | --- | 
 | Previse (**private**) | `Easy` | `Linux` | --- |
 | [Driver](https://m3n0sd0n4ld.github.io/htb/Driver/)| `Easy` | `Windows` | `#Drivers #MFP #RCE` |
+| [Bolt](https://m3n0sd0n4ld.github.io/htb/Bolt/) | `Medium`| `Linux`| `#Passbolt #AdminLTE3 #GPG` |
 
 <img src='imgs/tryhackme.png' width='200' align='center'>
 
