@@ -31,7 +31,7 @@ uDork is a script written in Bash Scripting that uses advanced Google search tec
 | [Bookstore](https://m3n0sd0n4ld.github.io/thm/Bookstore) | `Medium`  | `Linux` | `#rest #api #python #SUID` |
 | [USTOUN](https://m3n0sd0n4ld.github.io/thm/USTOUN/) | `Medium` | `Windows` | `#AD #RID #crackmapexec #mssqlclient` |
 | [GoldenEye](https://m3n0sd0n4ld.github.io/thm/GoldenEye/) | `Medium` | `Linux` | `#hydra #telnet #pop3 #aspell #overlays` |
-| [Lunizz CTF (Patched)](https://m3n0sd0n4ld.github.io/thm/LunizzCTF/) | `Medium` | `Linux` | `#CommandInjection #mysql #bcrypt #python #cipher` |
+| [Lunizz CTF (Patched)](https://m3n0sd0n4ld.github.io/thm/LunizzCTF/) | `Medium` | `Linux` | `#Cmd-inject #mysql #bcrypt #python #cipher` |
 | [Cat Pictures](https://m3n0sd0n4ld.github.io/thm/CatPictures/) | `Easy` | `Linux` | `#phpbb #docker #cron` |
 | [Wgel CTF](https://m3n0sd0n4ld.github.io/thm/WgelCTF/) | `Easy` | `Linux` | `#wget #passwd #SUDO` |
 | [Jack-of-All-Trades](https://m3n0sd0n4ld.github.io/thm/Jack-of-All-Trades/) | `Easy` | `Linux` | `#crypto #stego #strings` |
@@ -48,11 +48,11 @@ uDork is a script written in Bash Scripting that uses advanced Google search tec
 | [Couch](https://m3n0sd0n4ld.github.io/thm/Couch/) | `Easy` | `Linux` | `#CouchDB #docker` |
 | [Empline](https://m3n0sd0n4ld.github.io/thm/Empline/) |  `Medium` | `Linux` | `#opencats #XXE #capabilities #ruby` |
 | [IDE](https://m3n0sd0n4ld.github.io/thm/IDE/) |  `Easy` | `Linux` | `#Codiad #RCE #services` |
-| [Zeno](https://m3n0sd0n4ld.github.io/thm/zeno/) | `Medium` | `Linux` | `#RestaurantManagerSystem #SQLi #RCE #services #reboot` |
+| [Zeno](https://m3n0sd0n4ld.github.io/thm/zeno/) | `Medium` | `Linux` | `#RestaurantManager #SQLi #RCE #services #reboot` |
 | [Minotaur’s Labyrinth](https://m3n0sd0n4ld.github.io/thm/Minotaurs-Labyrinth/) | `Medium` | `Linux`| `#API #SQLi #Time-based #CommandInjection` |
 | [Lumberjack Turtle](https://m3n0sd0n4ld.github.io/thm/Lumberjack-Turtle/) | `Medium` | `Linux`| `#Log4j #Nagios #NSCA #Escape-Docker` |
 | [Flatline](https://m3n0sd0n4ld.github.io/thm/Flatline/) | `Easy` | `Windows`| `#FreeSWITCH #OpenClinic` |
-| [Oh My WebServer](https://m3n0sd0n4ld.github.io/thm/Oh-My-WebServer/) | `Medium` | `Linux`| `#Apache #RCE #CVE-2021-41773 #CVE-2021-38647 #OMIGOD` |
+| [Oh My WebServer](https://m3n0sd0n4ld.github.io/thm/Oh-My-WebServer/) | `Medium` | `Linux`| `#Apache #CVE-2021-41773 #OMIGOD` |
 
 <img src='imgs/vulnhub.png' width='200' align='center'>
 
