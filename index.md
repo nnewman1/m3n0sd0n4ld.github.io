@@ -20,113 +20,113 @@ uDork is a script written in Bash Scripting that uses advanced Google search tec
 
 <img src='imgs/hackthebox.png' width='200' align='center'>
 
-| Name | Level | OS | Tags | Writeup |
-| --- | :---: | :---: | :---: | :---: |
-| [Resolute](https://github.com/m3n0sd0n4ld/writeups/blob/master/pdfs/Resolute%20-%20hackthebox.pdf) | `Medium`  | `Windows` | `#smb #evil-winrm #password-spray #crackmapexec` | [View] |
-| Monteverde | `Medium`  | `Windows` | `#enum4linux #smb #evil-winrm #powershell #AzureAD` | [View](https://www.hackingarticles.in/hack-the-box-monteverde-walkthrough) |
-| Sauna | `Easy`  | `Windows` | `#GetNPUsers.py #John #mimikatz #winPEAS` | [View](https://www.hackingarticles.in/hackthebox-sauna-walkthrough/) |
-| Conceal | `Hard`  | `Windows` | `#snmp #ike-scan #strongswan #ftp #SeImpersonatePrivilege` | [View](https://www.hackingarticles.in/conceal-hackthebox-walkthrough/) |
-| Omni | `Easy`  | `Windows` | `#IoT #SirepRAT.py #WDP` | [View](https://www.hackingarticles.in/omni-hackthebox-walkthrough/) |
-| Mango | `Medium`  | `Linux` | `#NoSQL #script #SUID #jjs #java` | [View](https://www.hackingarticles.in/mango-hackthebox-walkthrough/) |
-| Bastard  | `Medium`  | `Windows` | `#Drupal #Drupalgeddon2 #SeImpersonatePrivilege` | [View](https://www.hackingarticles.in/bastard-hackthebox-walkthrough/) |
-| Forest | `Easy`  | `Windows` | `#GetNPUsers #John #Evil-winrm #Bloodhound #Powerview #ExchangeWindowsPermission #Secretsdump #psexec` | [View](https://www.hackingarticles.in/forest-hackthebox-walkthrough/) |
-| Doctor | `Easy`  | `Linux` | `#SSTI #RCE #Splunk #SplunkWhisperer2` | [View](https://www.hackingarticles.in/doctor-hackthebox-walkthrough/) |
-| Chaos | `Medium`  | `Linux` | `#WP #Roundcube #crypto #Firefox` | [View](https://www.hackingarticles.in/chaos-hackthebox-walkthrough/) |
-| Armageddon | `Easy`  | `Linux` | `#Drupal #Drupalgeddon2 #Snap` | [View](https://m3n0sd0n4ld.github.io/htb/Armageddon/) |
-| Knife | `Easy`  | `Linux` | `#PHP8 #RCE #SUDO #Knife` | [View](https://m3n0sd0n4ld.github.io/htb/Knife/) |
-| BountyHunter | `Easy`  | `Linux` | `#XXE #RCE #MD-Files` | [View](https://m3n0sd0n4ld.github.io/htb/BountyHunter/) |
-| Explore | `Easy`  | `Android` | Private |
-| Previse | `Easy`  | `Linux` | Private |
-| Driver | `Easy`| `Windows`| `#Drivers #MFP #RCE #PHP #Responder #NTLMv2 #PrintNightmare` | [View](https://m3n0sd0n4ld.github.io/htb/Driver/) |
-| Bolt | `Medium`| `Linux`| `#Passbolt #AdminLTE3 #GPG` | [View](https://m3n0sd0n4ld.github.io/htb/Bolt/) |
+| Name | Level | OS | Tags |
+| --- | :---: | :---: | :---: |
+| [Resolute](https://github.com/m3n0sd0n4ld/writeups/blob/master/pdfs/Resolute%20-%20hackthebox.pdf) | `Medium`  | `Windows` | `#smb #evil-winrm #password-spray #crackmapexec` |
+| [Monteverde](https://www.hackingarticles.in/hack-the-box-monteverde-walkthrough) | `Medium`  | `Windows` | `#enum4linux #smb #evil-winrm #powershell #AzureAD` |
+| [Sauna](https://www.hackingarticles.in/hackthebox-sauna-walkthrough/) | `Easy`  | `Windows` | `#GetNPUsers.py #John #mimikatz #winPEAS` |
+| [Conceal](https://www.hackingarticles.in/conceal-hackthebox-walkthrough/) | `Hard`  | `Windows` | `#snmp #ike-scan #strongswan #ftp #SeImpersonatePrivilege` |
+| [Omni](https://www.hackingarticles.in/omni-hackthebox-walkthrough/) | `Easy`  | `Windows` | `#IoT #SirepRAT.py #WDP` |
+| [Mango](https://www.hackingarticles.in/mango-hackthebox-walkthrough/) | `Medium`  | `Linux` | `#NoSQL #script #SUID #jjs #java` |
+| [Bastard](https://www.hackingarticles.in/bastard-hackthebox-walkthrough/) | `Medium`  | `Windows` | `#Drupal #Drupalgeddon2 #SeImpersonatePrivilege` |
+| [Forest](https://www.hackingarticles.in/forest-hackthebox-walkthrough/) | `Easy`  | `Windows` | `#GetNPUsers #John #Evil-winrm #Bloodhound #Powerview #ExchangeWindowsPermission #Secretsdump #psexec` |
+| [Doctor](https://www.hackingarticles.in/doctor-hackthebox-walkthrough/) | `Easy`  | `Linux` | `#SSTI #RCE #Splunk #SplunkWhisperer2` |
+| [Chaos](https://www.hackingarticles.in/chaos-hackthebox-walkthrough/) | `Medium`  | `Linux` | `#WP #Roundcube #crypto #Firefox` |
+| [Armageddon](https://m3n0sd0n4ld.github.io/htb/Armageddon/) | `Easy`  | `Linux` | `#Drupal #Drupalgeddon2 #Snap` |
+| [Knife](https://m3n0sd0n4ld.github.io/htb/Knife/) | `Easy`  | `Linux` | `#PHP8 #RCE #SUDO #Knife` |
+| [BountyHunter](https://m3n0sd0n4ld.github.io/htb/BountyHunter/) | `Easy`  | `Linux` | `#XXE #RCE #MD-Files` |
+| Explore (**private**) | `Easy`  | `Android` | 
+| Previse (**private**) | `Easy`  | `Linux` | 
+| [Driver](https://m3n0sd0n4ld.github.io/htb/Driver/)| `Easy` | `Windows` | `#Drivers #MFP #RCE #PHP #Responder #NTLMv2 #PrintNightmare` |
+| [Bolt](https://m3n0sd0n4ld.github.io/htb/Bolt/) | `Medium`| `Linux`| `#Passbolt #AdminLTE3 #GPG` |
 
 <img src='imgs/tryhackme.png' width='200' align='center'>
 
 
-| Name | Level | OS | Tags | Writeup |
-| --- | :---: | :---: | :---: | :---: |
-| Relevant | `Medium`  | `Windows` | `#smb #cmdasp` | [View](https://www.hackingarticles.in/relevant-tryhackme-walkthrough/) |
-| Startup | `Easy`  | `Linux` | `#wireshark #cron #gobuster` | [View](https://www.hackingarticles.in/startup-tryhackme-walkthrough/) |
-| Internal | `Hard`  | `Linux` | `#WP #Jenkins` | [View](https://www.hackingarticles.in/internal-tryhackme-walkthrough/) |
-| Revenge | `Medium`  | `Linux` | `#sqlmap #sudo #systemctl` | [View](https://www.hackingarticles.in/revenge-tryhackme-walkthrough) |
-| 0day | `Medium`  | `Linux` | `#shellshock #overlays` | [View](https://www.hackingarticles.in/0day-tryhackme-walkthrough) |
-| Ghizer | `Medium`  | `Linux` | `#debug #RCE #Limesurvey #ghidra` | [View](https://www.hackingarticles.in/ghizer-tryhackme-walkthrough) |
-| Iron Corp | `Hard`  | `Windows` | `#hydra #dig #SSRF #ACL` | [View](https://www.hackingarticles.in/iron-corp-tryhackme-walkthrough) |
-| Bookstore | `Medium`  | `Linux` | `#rest #api #python #SUID` | [View](https://m3n0sd0n4ld.github.io/thm/Bookstore) |
-| ConvertMyVideo | `Medium` | `Linux` | `#commandinjection #cracking #cron` | [View](https://m3n0sd0n4ld.github.io/thm/ConvertMyVideo/) |
-| USTOUN | `Medium` | `Windows` | `#AD #RID #crackmapexec #mssqlclient.py` | [View](https://m3n0sd0n4ld.github.io/thm/USTOUN/) |
-| GoldenEye | `Medium` | `Linux` | `#hydra #telnet #pop3 #aspell #commandInjection #overlays` | [View](https://m3n0sd0n4ld.github.io/thm/GoldenEye/) |
-| Lunizz CTF (Patched) | `Medium` | `Linux` | `#CommandInjection #mysql #bcrypt #python #cipher` | [View](https://m3n0sd0n4ld.github.io/thm/LunizzCTF/) |
-| Cat Pictures | `Easy` | `Linux` | `#phpbb #docker #cron` | [View](https://m3n0sd0n4ld.github.io/thm/CatPictures/) |
-| Wgel CTF | `Easy` | `Linux` | `#wget #passwd #SUDO` | [View](https://m3n0sd0n4ld.github.io/thm/WgelCTF/) |
-| Jack-of-All-Trades | `Easy` | `Linux` | `#crypto #stego #strings` | [View](https://m3n0sd0n4ld.github.io/thm/Jack-of-All-Trades/) |
-| VulnNet: dotjar | `Medium` | `Linux` | `#ghostcat #war #tomcat #SUDO #jar` | [View](https://m3n0sd0n4ld.github.io/thm/VulnNet-dotjar/) |
-| KoTH Food CTF | `Easy` | `Linux` | `#mysql #SETUID #screen` | [View](https://m3n0sd0n4ld.github.io/thm/KoTH-Food-CTF/) |
-| KoTH Hackers | `Medium` | `Linux` | `#ssh #privatekeys #SUDO #nano` | [View](https://m3n0sd0n4ld.github.io/thm/KoTH-Hackers/) |
-| The Blob Blog | `Medium` | `Linux` | `#brainfuck #vigenere #steghide #reversing` | [View](https://m3n0sd0n4ld.github.io/thm/The-Blob-Blog/) |
-| Mustacchio | `Easy` | `Linux` | `#XXE #pathabsolute #tail` | [View](https://m3n0sd0n4ld.github.io/thm/Mustacchio/) |
-| Harder | `Medium` | `Linux` | `#git #alpine #gpg` | [View](https://m3n0sd0n4ld.github.io/thm/Harder/) |
-| Fusion Corp | `Hard` | `Windows` | `#kerbrute #ASReproast #LDAP #ACLs #AD` | [View](https://m3n0sd0n4ld.github.io/thm/Fusion-Corp/) |
-| EnterPrize | `Hard` | `Linux` | `#typo3 #libcustom.so #norootsquash` | [View](https://m3n0sd0n4ld.github.io/thm/EnterPrize/) |
-| Mnemonic | `Medium` | `Linux` | `#cracking #python #script` | [View](https://m3n0sd0n4ld.github.io/thm/Mnemonic/) |
-| Undiscovered | `Medium` | `Linux` | `#riteCMS #RCE #norootsquash` | [View](https://m3n0sd0n4ld.github.io/thm/Undiscovered/) |
-| Couch | `Easy` | `Linux` | `#CouchDB #docker` | [View](https://m3n0sd0n4ld.github.io/thm/Couch/) |
-| Empline |  `Medium` | `Linux` | `#opencats #XXE #capabilities #ruby` | [View](https://m3n0sd0n4ld.github.io/thm/Empline/) |
-| IDE |  `Easy` | `Linux` | `#Codiad #RCE #services` | [View](https://m3n0sd0n4ld.github.io/thm/IDE/) |
-| Zeno | `Medium` | `Linux` | `#RestaurantManagerSystem #SQLi #RCE #services #SUDO #reboot` | [View](https://m3n0sd0n4ld.github.io/thm/zeno/) |
-| Minotaur’s Labyrinth | `Medium` | `Linux` | `#API #SQLi #Time-based #CommandInjection #script` | [View](https://m3n0sd0n4ld.github.io/thm/Minotaurs-Labyrinth/) |
-| Lumberjack Turtle | `Medium` | `Linux` | `#Log4j #Nagios #NSCA #Escape-Docker` | [View](https://m3n0sd0n4ld.github.io/thm/Lumberjack-Turtle/) |
-| Flatline | `Easy` | `Windows`| `#FreeSWITCH #OpenClinic` | [View](https://m3n0sd0n4ld.github.io/thm/Flatline/) |
-| Oh My WebServer | `Medium` | `Linux` | `#Apache #PathTraversal #RCE #CVE-2021-41773 #CVE-2021-38647 #OMIGOD` | [View](https://m3n0sd0n4ld.github.io/thm/Oh-My-WebServer/) |
+| Name | Level | OS | Tags |
+| --- | :---: | :---: | :---: |
+| [Relevant](https://www.hackingarticles.in/relevant-tryhackme-walkthrough/) | `Medium`  | `Windows` | `#smb #cmdasp` |
+| [Startup](https://www.hackingarticles.in/startup-tryhackme-walkthrough/) | `Easy`  | `Linux` | `#wireshark #cron #gobuster` |
+| [Internal](https://www.hackingarticles.in/internal-tryhackme-walkthrough/) | `Hard`  | `Linux` | `#WP #Jenkins` |
+| [Revenge](https://www.hackingarticles.in/revenge-tryhackme-walkthrough) | `Medium`  | `Linux` | `#sqlmap #sudo #systemctl` |
+| [0day](https://www.hackingarticles.in/0day-tryhackme-walkthrough) | `Medium`  | `Linux` | `#shellshock #overlays` |
+| [Ghizer](https://www.hackingarticles.in/ghizer-tryhackme-walkthrough) | `Medium`  | `Linux` | `#debug #RCE #Limesurvey #ghidra` |
+| [Iron Corp](https://www.hackingarticles.in/iron-corp-tryhackme-walkthrough) | `Hard`  | `Windows` | `#hydra #dig #SSRF #ACL` |
+| [Bookstore](https://m3n0sd0n4ld.github.io/thm/Bookstore) | `Medium`  | `Linux` | `#rest #api #python #SUID` |
+| [ConvertMyVideo](https://m3n0sd0n4ld.github.io/thm/ConvertMyVideo/) | `Medium` | `Linux` | `#commandinjection #cracking #cron` |
+| [USTOUN](https://m3n0sd0n4ld.github.io/thm/USTOUN/) | `Medium` | `Windows` | `#AD #RID #crackmapexec #mssqlclient.py` |
+| [GoldenEye](https://m3n0sd0n4ld.github.io/thm/GoldenEye/) | `Medium` | `Linux` | `#hydra #telnet #pop3 #aspell #commandInjection #overlays` |
+| [Lunizz CTF (Patched)](https://m3n0sd0n4ld.github.io/thm/LunizzCTF/) | `Medium` | `Linux` | `#CommandInjection #mysql #bcrypt #python #cipher` |
+| [Cat Pictures](https://m3n0sd0n4ld.github.io/thm/CatPictures/) | `Easy` | `Linux` | `#phpbb #docker #cron` |
+| [Wgel CTF](https://m3n0sd0n4ld.github.io/thm/WgelCTF/) | `Easy` | `Linux` | `#wget #passwd #SUDO` |
+| [Jack-of-All-Trades](https://m3n0sd0n4ld.github.io/thm/Jack-of-All-Trades/) | `Easy` | `Linux` | `#crypto #stego #strings` |
+| [VulnNet: dotjar](https://m3n0sd0n4ld.github.io/thm/VulnNet-dotjar/) | `Medium` | `Linux` | `#ghostcat #war #tomcat #SUDO #jar` |
+| [KoTH Food CTF](https://m3n0sd0n4ld.github.io/thm/KoTH-Food-CTF/) | `Easy` | `Linux` | `#mysql #SETUID #screen` |
+| [KoTH Hackers](https://m3n0sd0n4ld.github.io/thm/KoTH-Hackers/) | `Medium` | `Linux` | `#ssh #privatekeys #SUDO #nano` |
+| [The Blob Blog](https://m3n0sd0n4ld.github.io/thm/The-Blob-Blog/) | `Medium` | `Linux` | `#brainfuck #vigenere #steghide #reversing` |
+| [Mustacchio](https://m3n0sd0n4ld.github.io/thm/Mustacchio/) | `Easy` | `Linux` | `#XXE #pathabsolute #tail` |
+| [Harder](https://m3n0sd0n4ld.github.io/thm/Harder/) | `Medium` | `Linux` | `#git #alpine #gpg` |
+| [Fusion Corp](https://m3n0sd0n4ld.github.io/thm/Fusion-Corp/) | `Hard` | `Windows` | `#kerbrute #ASReproast #LDAP #ACLs #AD` |
+| [EnterPrize](https://m3n0sd0n4ld.github.io/thm/EnterPrize/) | `Hard` | `Linux` | `#typo3 #libcustom.so #norootsquash` |
+| [Mnemonic](https://m3n0sd0n4ld.github.io/thm/Mnemonic/) | `Medium` | `Linux` | `#cracking #python #script` |
+| [Undiscovered](https://m3n0sd0n4ld.github.io/thm/Undiscovered/) | `Medium` | `Linux` | `#riteCMS #RCE #norootsquash` |
+| [Couch](https://m3n0sd0n4ld.github.io/thm/Couch/) | `Easy` | `Linux` | `#CouchDB #docker` |
+| [Empline](https://m3n0sd0n4ld.github.io/thm/Empline/) |  `Medium` | `Linux` | `#opencats #XXE #capabilities #ruby` |
+| [IDE](https://m3n0sd0n4ld.github.io/thm/IDE/) |  `Easy` | `Linux` | `#Codiad #RCE #services` |
+| [Zeno](https://m3n0sd0n4ld.github.io/thm/zeno/) | `Medium` | `Linux` | `#RestaurantManagerSystem #SQLi #RCE #services #SUDO #reboot` |
+| [Minotaur’s Labyrinth](https://m3n0sd0n4ld.github.io/thm/Minotaurs-Labyrinth/) | `Medium` | `Linux`| `#API #SQLi #Time-based #CommandInjection #script` |
+| [Lumberjack Turtle](https://m3n0sd0n4ld.github.io/thm/Lumberjack-Turtle/) | `Medium` | `Linux`| `#Log4j #Nagios #NSCA #Escape-Docker` |
+| [Flatline](https://m3n0sd0n4ld.github.io/thm/Flatline/) | `Easy` | `Windows`| `#FreeSWITCH #OpenClinic` |
+| [Oh My WebServer](https://m3n0sd0n4ld.github.io/thm/Oh-My-WebServer/) | `Medium` | `Linux`| `#Apache #PathTraversal #RCE #CVE-2021-41773 #CVE-2021-38647 #OMIGOD` |
 
 <img src='imgs/vulnhub.png' width='200' align='center'>
 
-| Name | Level | OS | Tags | Writeup |
-| --- | :---: | :---: | :---: | :---: |
-| VulnUni | `Medium` | `Linux` | `#eClass #SQLi #DirtyCow` | [View](https://github.com/m3n0sd0n4ld/writeups/blob/master/pdfs/VulnUni%20-%20vulnhub.pdf) |
-| Recon:1 | `Easy` | `Linux` | `#WP #SUDO #gdb` | [View](https://github.com/m3n0sd0n4ld/writeups/blob/master/pdfs/Recon-1%20-%20vulnhub.pdf) |
-| CK-00 | `Easy` | `Linux` | `#WP #SUDO #scp` | [View](https://github.com/m3n0sd0n4ld/writeups/blob/master/pdfs/CK-00%20-%20vulnhub.pdf) |
-| DevRandom CTF: 1.1 | `Easy` | `Linux` | `#LFI #RCE #apache #poison #SUDO #dpkg` | [View](https://github.com/m3n0sd0n4ld/writeups/blob/master/pdfs/DevRandom%20CTF%201.1-%20vulnhub.pdf) |
-| Victim: 1 | `Medium` | `Linux` | `#Bolt #WebFS #wpa #wifi #SUID #nohup` | [View](https://github.com/m3n0sd0n4ld/writeups/blob/master/pdfs/Victim-1%20-%20vulnhub.pdf) |
-| Zion: 1 | `Medium` | `Linux` | `#SSH #SUDO #cp` | [View](https://github.com/m3n0sd0n4ld/writeups/blob/master/pdfs/Zion-1%20-%20vulnhub.pdf) |
-| Death Star: 1 | `Medium` | `Linux` | `#UDP #steghide #knockport #lib.so.6` | [View](https://github.com/m3n0sd0n4ld/writeups/blob/master/pdfs/Death%20Star-1%20-%20vulnhub.pdf) |
-| Tre: 1 | `Medium` | `Linux` | `#adminer #mantisBT #SUDO #shutdown` | [View](https://github.com/m3n0sd0n4ld/writeups/blob/master/pdfs/Tre-1%20-%20vulnhub.pdf) |
-| Seppuku: 1 | `Hard` | `Linux` | `#webconsole #smb #SUDO #ln` | [View](https://github.com/m3n0sd0n4ld/writeups/blob/master/pdfs/Seppuku-1%20-%20vulnhub.pdf) |
-| CengBox: 2 | `Medium` | `Linux` | `#GilaCMS #SUDO #scripts` | [View](https://github.com/m3n0sd0n4ld/writeups/blob/master/pdfs/CengBox-2%20-%20vulnhub.pdf) |
-| HA: Natraj | `Medium` | `Linux` | `#LFI #SSH #RCE #poison #SUDO #nmap` | [View](https://www.hackingarticles.in/ha-natraj-vulnhub-walkthrough/) |
-| Glasgow Smile: 1.1 | `Medium` | `Linux` | `#joomla #cron` | [View](https://www.hackingarticles.in/glasgow-smile-1-1-vulnhub-walkthrough/) |
-| GitRoot: 1 | `Medium` | `Linux` | `#git #SUDO` | [View](https://www.hackingarticles.in/gitroot-1-vulnhub-walkthrough/) |
-| eLection: 1 | `Medium` | `Linux` | `#eLection #OSINT #SQLi #` | [View](https://www.hackingarticles.in/election-1-vulnhub-walkthorugh/) |
-| Sunset: decoy | `Easy` | `Linux` | `#zip #john #chkrootkit` | [View](https://www.hackingarticles.in/sunset-decoy-vulnhub-walkthrough/) |
-| CyberSploit: 1 | `Easy` | `Linux` | `#crypto #overlays` | [View](https://www.hackingarticles.in/cybersploit-1-vulnhub-walkthrough/) |
-| Pwned: 1 | `Easy` | `Linux` | `#SSH #group #docker` | [View](https://www.hackingarticles.in/pwned-1-vulnhub-walkthorugh/) |
-| BlackRose: 1 | `Hard` | `Linux` | `#byPass #PHP #strcmp #id.so #reversing #ghidra #waf` | [View](https://www.hackingarticles.in/blackrose-1-vulnhub-walkthrough/) |
-| GreenOptic: 1 | `Hard` | `Linux` | `#LFI #wireshark #group` | [View](https://www.hackingarticles.in/greenoptic-1-vulnhub-walkthrough/)
-| Presidential: 1 | `Hard` | `Linux` | `#LFI #RCE #phpmyadmin #capabilities #tar` | [View](https://www.hackingarticles.in/presidential-1-vulnhub-walkthrough/) |
-| Tomato: 1 | `Medium` | `Linux` | `#LFI #poison #RCE #ssh #log #CVE-2017-16995` | [View](https://www.hackingarticles.in/tomato-1-vulnhub-walkthrough/) |
-| Sunset: Midninght | `Medium` | `Linux` | `#WP #SUID #status #path #service` | [View](https://www.hackingarticles.in/sunset-midnight-vulnhub-walkthrough/) |
-| Sunset: Twilight | `Medium` | `Linux` | `#PHPF1 #shadow #file` | [View](https://www.hackingarticles.in/sunset-twilight-vulnhub-walkthrough/) |
-| Chili: 1 | `Easy` | `Linux` | `#FTP #write #abuse #passwd` | [View](https://www.hackingarticles.in/chili-1-vulnhub-walkthrough/) |
-| Cewlkid: 1 | `Medium` | `Linux` | `#SitemagicCMS #fileupload #cron #SUDO` | [View](https://www.hackingarticles.in/cewlkid-1-vulnhub-walkthrough/) |
-| Durian: 1 | `Hard` | `Linux` | `#LFI #RCE #log #poison #capabilities #gdb` | [View](https://www.hackingarticles.in/durian-1-vulnhub-walkthrough/) |
-| Relevant: 1 | `Medium` | `Linux` | `#WP #nmap #scripts #plugins #wp-file-manager #RCE #SUDO #node` | [View](https://www.hackingarticles.in/relevant-1-vulnhub-walkthrough/) |
-| Powergrid: 1.0.1 | `Hard` | `Linux` | `#Roundcube #RCE #PGP #Rsync #pivoting #SSH` | [View](https://www.hackingarticles.in/powergrid-1-0-1-vulnhub-walkthrough/) |
-| Insanity: 1 | `Hard` | `Linux` | `#wireshark #SQLi #SquirrelMail #Firefox` | [View](https://www.hackingarticles.in/insanity-1-vulnhub-walkthrough/) |
-| Tempus Fugit: 3 | `Hard` | `Linux` | `#SSTI #SQLite #Processwire #OPT #Google #reversing #abuse #binary` | [View](https://www.hackingarticles.in/tempus-fugit-3-vulnhub-walkthrough/) |
-| KB-Vulns: 3 | `Easy` | `Linux` | `#smb #SiteMagicCMS #SETUID #systemctl` | [View](https://www.hackingarticles.in/kb-vuln-3-vulnhub-walkthrough/) |
-| Cybox: 1 | `Medium` | `Linux` | `#LFI #RCE #Apache #poison #SETUID #uncommon` | [View](https://www.hackingarticles.in/cybox-1-vulnhub-walkthrough/) |
+| Name | Level | OS | Tags |
+| --- | :---: | :---: | :---: |
+| [VulnUni](https://github.com/m3n0sd0n4ld/writeups/blob/master/pdfs/VulnUni%20-%20vulnhub.pdf) | `Medium` | `Linux` | `#eClass #SQLi #DirtyCow` |
+| [Recon:1](https://github.com/m3n0sd0n4ld/writeups/blob/master/pdfs/Recon-1%20-%20vulnhub.pdf) | `Easy` | `Linux` | `#WP #SUDO #gdb` |
+| [CK-00](https://github.com/m3n0sd0n4ld/writeups/blob/master/pdfs/CK-00%20-%20vulnhub.pdf) | `Easy` | `Linux` | `#WP #SUDO #scp` |
+| [DevRandom CTF: 1.1](https://github.com/m3n0sd0n4ld/writeups/blob/master/pdfs/DevRandom%20CTF%201.1-%20vulnhub.pdf) | `Easy` | `Linux` | `#LFI #RCE #apache #poison #SUDO #dpkg` |
+| [Victim: 1](https://github.com/m3n0sd0n4ld/writeups/blob/master/pdfs/Victim-1%20-%20vulnhub.pdf) | `Medium` | `Linux` | `#Bolt #WebFS #wpa #wifi #SUID #nohup` |
+| [Zion: 1](https://github.com/m3n0sd0n4ld/writeups/blob/master/pdfs/Zion-1%20-%20vulnhub.pdf) | `Medium` | `Linux` | `#SSH #SUDO #cp` |
+| [Death Star: 1](https://github.com/m3n0sd0n4ld/writeups/blob/master/pdfs/Death%20Star-1%20-%20vulnhub.pdf) | `Medium` | `Linux` | `#UDP #steghide #knockport #lib.so.6` |
+| [Tre: 1](https://github.com/m3n0sd0n4ld/writeups/blob/master/pdfs/Tre-1%20-%20vulnhub.pdf) | `Medium` | `Linux` | `#adminer #mantisBT #SUDO #shutdown` |
+| [Seppuku: 1](https://github.com/m3n0sd0n4ld/writeups/blob/master/pdfs/Seppuku-1%20-%20vulnhub.pdf) | `Hard` | `Linux` | `#webconsole #smb #SUDO #ln` |
+| [CengBox: 2](https://github.com/m3n0sd0n4ld/writeups/blob/master/pdfs/CengBox-2%20-%20vulnhub.pdf) | `Medium` | `Linux` | `#GilaCMS #SUDO #scripts` |
+| [HA: Natraj](https://www.hackingarticles.in/ha-natraj-vulnhub-walkthrough/) | `Medium` | `Linux` | `#LFI #SSH #RCE #poison #SUDO #nmap` |
+| [Glasgow Smile: 1.1](https://www.hackingarticles.in/glasgow-smile-1-1-vulnhub-walkthrough/) | `Medium` | `Linux` | `#joomla #cron` |
+| [GitRoot: 1](https://www.hackingarticles.in/gitroot-1-vulnhub-walkthrough/) | `Medium` | `Linux` | `#git #SUDO` |
+| [eLection: 1](https://www.hackingarticles.in/election-1-vulnhub-walkthorugh/) | `Medium` | `Linux` | `#eLection #OSINT #SQLi #` |
+| [Sunset: decoy](https://www.hackingarticles.in/sunset-decoy-vulnhub-walkthrough/) | `Easy` | `Linux` | `#zip #john #chkrootkit` |
+| [CyberSploit: 1](https://www.hackingarticles.in/cybersploit-1-vulnhub-walkthrough/) | `Easy` | `Linux` | `#crypto #overlays` |
+| [Pwned: 1](https://www.hackingarticles.in/pwned-1-vulnhub-walkthorugh/) | `Easy` | `Linux` | `#SSH #group #docker` |
+| [BlackRose: 1](https://www.hackingarticles.in/blackrose-1-vulnhub-walkthrough/) | `Hard` | `Linux` | `#byPass #PHP #strcmp #id.so #reversing #ghidra #waf` |
+| [GreenOptic: 1](https://www.hackingarticles.in/greenoptic-1-vulnhub-walkthrough/) | `Hard` | `Linux` | `#LFI #wireshark #group` |
+| [Presidential: 1](https://www.hackingarticles.in/presidential-1-vulnhub-walkthrough/) | `Hard` | `Linux` | `#LFI #RCE #phpmyadmin #capabilities #tar` |
+| [Tomato: 1](https://www.hackingarticles.in/tomato-1-vulnhub-walkthrough/) | `Medium` | `Linux` | `#LFI #poison #RCE #ssh #log #CVE-2017-16995` |
+| [Sunset: Midninght](https://www.hackingarticles.in/sunset-midnight-vulnhub-walkthrough/) | `Medium` | `Linux` | `#WP #SUID #status #path #service` |
+| [Sunset: Twilight](https://www.hackingarticles.in/sunset-twilight-vulnhub-walkthrough/) | `Medium` | `Linux` | `#PHPF1 #shadow #file` |
+| [Chili: 1](https://www.hackingarticles.in/chili-1-vulnhub-walkthrough/) | `Easy` | `Linux` | `#FTP #write #abuse #passwd` |
+| [Cewlkid: 1](https://www.hackingarticles.in/cewlkid-1-vulnhub-walkthrough/) | `Medium` | `Linux` | `#SitemagicCMS #fileupload #cron #SUDO` |
+| [Durian: 1](https://www.hackingarticles.in/durian-1-vulnhub-walkthrough/) | `Hard` | `Linux` | `#LFI #RCE #log #poison #capabilities #gdb` |
+| [Relevant: 1](https://www.hackingarticles.in/relevant-1-vulnhub-walkthrough/) | `Medium` | `Linux` | `#WP #nmap #scripts #plugins #wp-file-manager #RCE #SUDO #node` |
+| [Powergrid: 1.0.1](https://www.hackingarticles.in/powergrid-1-0-1-vulnhub-walkthrough/) | `Hard` | `Linux` | `#Roundcube #RCE #PGP #Rsync #pivoting #SSH` |
+| [Insanity: 1](https://www.hackingarticles.in/insanity-1-vulnhub-walkthrough/) | `Hard` | `Linux` | `#wireshark #SQLi #SquirrelMail #Firefox` |
+| [Tempus Fugit: 3](https://www.hackingarticles.in/tempus-fugit-3-vulnhub-walkthrough/) | `Hard` | `Linux` | `#SSTI #SQLite #Processwire #OPT #Google #reversing #abuse #binary` |
+| [KB-Vulns: 3](https://www.hackingarticles.in/kb-vuln-3-vulnhub-walkthrough/) | `Easy` | `Linux` | `#smb #SiteMagicCMS #SETUID #systemctl` |
+| [Cybox: 1](https://www.hackingarticles.in/cybox-1-vulnhub-walkthrough/) | `Medium` | `Linux` | `#LFI #RCE #Apache #poison #SETUID #uncommon` |
 
 <img src='imgs/offensivesecurity.png' width='250' align='center'>
 
-| Name | Level | OS | Tags | Writeup |
-| --- | :---: | :---: | :---: | :---: |
-| DC5 | `Easy` | `Linux` | `#LFI #RCE #Nginx #log #poison #SETUID #screen` | [View](https://m3n0sd0n4ld.github.io/OSC/DC5/) |
+| Name | Level | OS | Tags |
+| --- | :---: | :---: | :---: |
+| [DC5](https://m3n0sd0n4ld.github.io/OSC/DC5/) | `Easy` | `Linux` | `#LFI #RCE #Nginx #log #poison #SETUID #screen` |
 
 <img src='imgs/uam.png' width='200' align='center'>
 
-| Name | Level | OS | Tags | Writeup |
-| --- | :---: | :---: | :---: | :---: |
-| El coche fantástico | `Easy` | `Linux` | `#web #waf #xor #RCE` | [View](https://github.com/m3n0sd0n4ld/writeups/blob/master/pdfs/UAM%20-%20El%20coche%20fant%C3%A1stico%20-%20Episodio%201.pdf) |
+| Name | Level | OS | Tags |
+| --- | :---: | :---: | :---: |
+| [El coche fantástico](https://github.com/m3n0sd0n4ld/writeups/blob/master/pdfs/UAM%20-%20El%20coche%20fant%C3%A1stico%20-%20Episodio%201.pdf) | `Easy` | `Linux` | `#web #waf #xor #RCE` |
 
 ---
 
