@@ -31,12 +31,12 @@ uDork is a script written in Bash Scripting that uses advanced Google search tec
 | [Forest](https://www.hackingarticles.in/forest-hackthebox-walkthrough/) | `Easy`  | `Windows` | `#Exchange #Secretsdump` |
 | [Doctor](https://www.hackingarticles.in/doctor-hackthebox-walkthrough/) | `Easy`  | `Linux` | `#SSTI #RCE #Splunk` |
 | [Chaos](https://www.hackingarticles.in/chaos-hackthebox-walkthrough/) | `Medium`  | `Linux` | `#WP #Roundcube #Firefox` |
-| [Armageddon](https://m3n0sd0n4ld.github.io/htb/Armageddon/) | `Easy`  | `Linux` | `#Drupal #Drupalgeddon2 #Snap` |
+| [Armageddon](https://m3n0sd0n4ld.github.io/htb/Armageddon/) | `Easy`  | `Linux` | `#Drupal #Snap` |
 | [Knife](https://m3n0sd0n4ld.github.io/htb/Knife/) | `Easy`  | `Linux` | `#PHP8 #RCE #SUDO #Knife` |
 | [BountyHunter](https://m3n0sd0n4ld.github.io/htb/BountyHunter/) | `Easy`  | `Linux` | `#XXE #RCE #MD-Files` |
 | Explore (**private**) | `Easy` | `Android` | --- | 
 | Previse (**private**) | `Easy` | `Linux` | --- |
-| [Driver](https://m3n0sd0n4ld.github.io/htb/Driver/)| `Easy` | `Windows` | `#Drivers #RCE #NTLMv2 #PrintNightmare` |
+| [Driver](https://m3n0sd0n4ld.github.io/htb/Driver/)| `Easy` | `Windows` | `#Drivers #RCE #PrintNightmare` |
 | [Bolt](https://m3n0sd0n4ld.github.io/htb/Bolt/) | `Medium`| `Linux`| `#Passbolt #AdminLTE3 #GPG` |
 
 <img src='imgs/tryhackme.png' width='200' align='center'>
