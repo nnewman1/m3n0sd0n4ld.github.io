@@ -24,6 +24,9 @@ uDork is a script written in Bash Scripting that uses advanced Google search tec
 | [Resolute](https://github.com/m3n0sd0n4ld/writeups/blob/master/pdfs/Resolute%20-%20hackthebox.pdf) | `Medium`  | `Windows` | `#smb #evil-winrm #password-spray` |
 | [Monteverde](https://www.hackingarticles.in/hack-the-box-monteverde-walkthrough) | `Medium`  | `Windows` | `#enum4linux #powershell #AzureAD` |
 | [Sauna](https://www.hackingarticles.in/hackthebox-sauna-walkthrough/) | `Easy`  | `Windows` | `#GetNPUsers #mimikatz #winPEAS` |
+| [Conceal](https://www.hackingarticles.in/conceal-hackthebox-walkthrough/) | `Hard`  | `Windows` | `#snmp #ike-scan #strongswan` |
+| [Omni](https://www.hackingarticles.in/omni-hackthebox-walkthrough/) | `Easy`  | `Windows` | `#IoT #SirepRAT.py #WDP` |
+| [Mango](https://www.hackingarticles.in/mango-hackthebox-walkthrough/) | `Medium`  | `Linux` | `#NoSQL #script #SUID #jjs #java` |
 
 <img src='imgs/tryhackme.png' width='200' align='center'>
 
