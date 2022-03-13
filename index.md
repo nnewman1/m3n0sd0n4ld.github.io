@@ -36,6 +36,7 @@ uDork is a script written in Bash Scripting that uses advanced Google search tec
 | [BountyHunter](https://m3n0sd0n4ld.github.io/htb/BountyHunter/) | `Easy`  | `Linux` | `#XXE #RCE #MDFiles` |
 | Explore (**private**) | `Easy` | `Android` | --- | 
 | Previse (**private**) | `Easy` | `Linux` | --- |
+| [Driver](https://m3n0sd0n4ld.github.io/htb/Driver/)| `Easy` | `Windows` | `#Drivers #RCE #PrintNightmare` |
 
 <img src='imgs/tryhackme.png' width='200' align='center'>
 
