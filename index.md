@@ -25,6 +25,11 @@ uDork is a script written in Bash Scripting that uses advanced Google search tec
 | [Relevant](https://www.hackingarticles.in/relevant-tryhackme-walkthrough/) | `Medium` | `Windows` | `#smb #cmdasp` |
 | [Startup](https://www.hackingarticles.in/startup-tryhackme-walkthrough/) | `Easy`  | `Linux` | `#wireshark #cron #gobuster` |
 | [Internal](https://www.hackingarticles.in/internal-tryhackme-walkthrough/) | `Hard`  | `Linux` | `#WP #Jenkins` |
+| [Revenge](https://www.hackingarticles.in/revenge-tryhackme-walkthrough) | `Medium`  | `Linux` | `#sqlmap #sudo #systemctl` |
+| [0day](https://www.hackingarticles.in/0day-tryhackme-walkthrough) | `Medium`  | `Linux` | `#shellshock #overlays` |
+| [Ghizer](https://www.hackingarticles.in/ghizer-tryhackme-walkthrough) | `Medium`  | `Linux` | `#debug #RCE #Limesurvey #ghidra` |
+| [Iron Corp](https://www.hackingarticles.in/iron-corp-tryhackme-walkthrough) | `Hard`  | `Windows` | `#hydra #dig #SSRF #ACL` |
+| [Bookstore](https://m3n0sd0n4ld.github.io/thm/Bookstore) | `Medium`  | `Linux` | `#rest #api #python #SUID` |
 
 <img src='imgs/vulnhub.png' width='200' align='center'>
 
