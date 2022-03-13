@@ -31,7 +31,7 @@ uDork is a script written in Bash Scripting that uses advanced Google search tec
 | [Iron Corp](https://www.hackingarticles.in/iron-corp-tryhackme-walkthrough) | `Hard`  | `Windows` | `#hydra #dig #SSRF #ACL` |
 | [Bookstore](https://m3n0sd0n4ld.github.io/thm/Bookstore) | `Medium` | `Linux` | `#rest #api #python #SUID` |
 | [ConvertMyVideo](https://m3n0sd0n4ld.github.io/thm/ConvertMyVideo/) | `Medium` | `Linux` | `#commandinjection #cracking #cron` |
-| [USTOUN](https://m3n0sd0n4ld.github.io/thm/USTOUN/) | `Medium` | `Windows` | `#AD #RID #crackmapexec #mssqlclient.py` |
+| [USTOUN](https://m3n0sd0n4ld.github.io/thm/USTOUN/) | `Medium` | `Windows` | `#AD #RID #crackmapexec #mssqlclient` |
 | [GoldenEye](https://m3n0sd0n4ld.github.io/thm/GoldenEye/) | `Medium` | `Linux` | `#hydra #telnet #pop3 #aspell #commandInjection #overlays` |
 | [Lunizz CTF (Patched)](https://m3n0sd0n4ld.github.io/thm/LunizzCTF/) | `Medium` | `Linux` | `#CommandInjection #mysql #bcrypt #python #cipher` |
 | [Cat Pictures](https://m3n0sd0n4ld.github.io/thm/CatPictures/) | `Easy` | `Linux` | `#phpbb #docker #cron` |
