@@ -31,7 +31,7 @@ uDork is a script written in Bash Scripting that uses advanced Google search tec
 | [Forest](https://www.hackingarticles.in/forest-hackthebox-walkthrough/) | `Easy`  | `Windows` | `#ExchangeWindowsPermission` |
 | [Doctor](https://www.hackingarticles.in/doctor-hackthebox-walkthrough/) | `Easy`  | `Linux` | `#SSTI #RCE #Splunk` |
 | [Chaos](https://www.hackingarticles.in/chaos-hackthebox-walkthrough/) | `Medium`  | `Linux` | `#WP #Roundcube #crypto #Firefox` |
-| [Armageddon](https://m3n0sd0n4ld.github.io/htb/Armageddon/) | `Easy`  | `Linux` | `#Drupal #Drupalgeddon2 #Snap` |
+| [Armageddon](https://m3n0sd0n4ld.github.io/htb/Armageddon/) | `Easy`  | `Linux` | `#Drupal #Snap` |
 | [Knife](https://m3n0sd0n4ld.github.io/htb/Knife/) | `Easy`  | `Linux` | `#PHP8 #RCE #SUDO #Knife` |
 | [BountyHunter](https://m3n0sd0n4ld.github.io/htb/BountyHunter/) | `Easy`  | `Linux` | `#XXE #RCE #MD-Files` |
 | Explore (**private**) | `Easy` | `Android` | --- | 
