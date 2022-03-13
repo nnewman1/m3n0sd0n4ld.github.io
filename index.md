@@ -22,7 +22,7 @@ uDork is a script written in Bash Scripting that uses advanced Google search tec
 
 | Name | Level | OS | Tags | Writeup |
 | --- | :---: | :---: | :---: | :---: |
-| Resolute | `Medium`  | `Windows` | `#smb #evil-winrm #password-spray #crackmapexec` | [View](https://github.com/m3n0sd0n4ld/writeups/blob/master/pdfs/Resolute%20-%20hackthebox.pdf) |
+| [Resolute](https://github.com/m3n0sd0n4ld/writeups/blob/master/pdfs/Resolute%20-%20hackthebox.pdf) | `Medium`  | `Windows` | `#smb #evil-winrm #password-spray #crackmapexec` | [View] |
 | Monteverde | `Medium`  | `Windows` | `#enum4linux #smb #evil-winrm #powershell #AzureAD` | [View](https://www.hackingarticles.in/hack-the-box-monteverde-walkthrough) |
 | Sauna | `Easy`  | `Windows` | `#GetNPUsers.py #John #mimikatz #winPEAS` | [View](https://www.hackingarticles.in/hackthebox-sauna-walkthrough/) |
 | Conceal | `Hard`  | `Windows` | `#snmp #ike-scan #strongswan #ftp #SeImpersonatePrivilege` | [View](https://www.hackingarticles.in/conceal-hackthebox-walkthrough/) |
@@ -34,9 +34,9 @@ uDork is a script written in Bash Scripting that uses advanced Google search tec
 | Chaos | `Medium`  | `Linux` | `#WP #Roundcube #crypto #Firefox` | [View](https://www.hackingarticles.in/chaos-hackthebox-walkthrough/) |
 | Armageddon | `Easy`  | `Linux` | `#Drupal #Drupalgeddon2 #Snap` | [View](https://m3n0sd0n4ld.github.io/htb/Armageddon/) |
 | Knife | `Easy`  | `Linux` | `#PHP8 #RCE #SUDO #Knife` | [View](https://m3n0sd0n4ld.github.io/htb/Knife/) |
-| BountyHunter | `Easy`  | `Linux` | `#XXE #RCE #MD-Files`| [View](https://m3n0sd0n4ld.github.io/htb/BountyHunter/) |
-| Explore | `Easy`  | `Android` | | Private |
-| Previse | `Easy`  | `Linux` | | Private |
+| BountyHunter | `Easy`  | `Linux` | `#XXE #RCE #MD-Files` | [View](https://m3n0sd0n4ld.github.io/htb/BountyHunter/) |
+| Explore | `Easy`  | `Android` | Private |
+| Previse | `Easy`  | `Linux` | Private |
 | Driver | `Easy`| `Windows`| `#Drivers #MFP #RCE #PHP #Responder #NTLMv2 #PrintNightmare` | [View](https://m3n0sd0n4ld.github.io/htb/Driver/) |
 | Bolt | `Medium`| `Linux`| `#Passbolt #AdminLTE3 #GPG` | [View](https://m3n0sd0n4ld.github.io/htb/Bolt/) |
 
@@ -74,10 +74,10 @@ uDork is a script written in Bash Scripting that uses advanced Google search tec
 | Empline |  `Medium` | `Linux` | `#opencats #XXE #capabilities #ruby` | [View](https://m3n0sd0n4ld.github.io/thm/Empline/) |
 | IDE |  `Easy` | `Linux` | `#Codiad #RCE #services` | [View](https://m3n0sd0n4ld.github.io/thm/IDE/) |
 | Zeno | `Medium` | `Linux` | `#RestaurantManagerSystem #SQLi #RCE #services #SUDO #reboot` | [View](https://m3n0sd0n4ld.github.io/thm/zeno/) |
-| Minotaur’s Labyrinth | `Medium` | `Linux`| `#API #SQLi #Time-based #CommandInjection #script` | [View](https://m3n0sd0n4ld.github.io/thm/Minotaurs-Labyrinth/) |
-| Lumberjack Turtle | `Medium` | `Linux`| `#Log4j #Nagios #NSCA #Escape-Docker` | [View](https://m3n0sd0n4ld.github.io/thm/Lumberjack-Turtle/) |
+| Minotaur’s Labyrinth | `Medium` | `Linux` | `#API #SQLi #Time-based #CommandInjection #script` | [View](https://m3n0sd0n4ld.github.io/thm/Minotaurs-Labyrinth/) |
+| Lumberjack Turtle | `Medium` | `Linux` | `#Log4j #Nagios #NSCA #Escape-Docker` | [View](https://m3n0sd0n4ld.github.io/thm/Lumberjack-Turtle/) |
 | Flatline | `Easy` | `Windows`| `#FreeSWITCH #OpenClinic` | [View](https://m3n0sd0n4ld.github.io/thm/Flatline/) |
-| Oh My WebServer | `Medium` | `Linux`| `#Apache #PathTraversal #RCE #CVE-2021-41773 #CVE-2021-38647 #OMIGOD` | [View](https://m3n0sd0n4ld.github.io/thm/Oh-My-WebServer/) |
+| Oh My WebServer | `Medium` | `Linux` | `#Apache #PathTraversal #RCE #CVE-2021-41773 #CVE-2021-38647 #OMIGOD` | [View](https://m3n0sd0n4ld.github.io/thm/Oh-My-WebServer/) |
 
 <img src='imgs/vulnhub.png' width='200' align='center'>
 
