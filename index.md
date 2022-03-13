@@ -20,7 +20,7 @@ uDork is a script written in Bash Scripting that uses advanced Google search tec
 <img src='imgs/tryhackme.png' width='200' align='center'>
 
 | Name | Level | OS | Tags |
-| --- | :---: | :---: | :---: |
+| :--- | :---: | :---: | :---: |
 | [Relevant](https://www.hackingarticles.in/relevant-tryhackme-walkthrough/) | `Medium` | `Windows` | `#smb #cmdasp` |
 | [Startup](https://www.hackingarticles.in/startup-tryhackme-walkthrough/) | `Easy`  | `Linux` | `#wireshark #cron #gobuster` |
 | [Internal](https://www.hackingarticles.in/internal-tryhackme-walkthrough/) | `Hard`  | `Linux` | `#WP #Jenkins` |
@@ -35,7 +35,7 @@ uDork is a script written in Bash Scripting that uses advanced Google search tec
 <img src='imgs/vulnhub.png' width='200' align='center'>
 
 | Name | Level | OS | Tags |
-| --- | :---: | :---: | :---: |
+| :--- | :---: | :---: | :---: |
 | [VulnUni](https://github.com/m3n0sd0n4ld/writeups/blob/master/pdfs/VulnUni%20-%20vulnhub.pdf) | `Medium` | `Linux` | `#eClass #SQLi #DirtyCow` |
 | [Recon:1](https://github.com/m3n0sd0n4ld/writeups/blob/master/pdfs/Recon-1%20-%20vulnhub.pdf) | `Easy` | `Linux` | `#WP #SUDO #gdb` |
 | [CK-00](https://github.com/m3n0sd0n4ld/writeups/blob/master/pdfs/CK-00%20-%20vulnhub.pdf) | `Easy` | `Linux` | `#WP #SUDO #scp` |
@@ -72,13 +72,13 @@ uDork is a script written in Bash Scripting that uses advanced Google search tec
 <img src='imgs/offensivesecurity.png' width='250' align='center'>
 
 | Name | Level | OS | Tags |
-| --- | :---: | :---: | :---: |
+| :--- | :---: | :---: | :---: |
 | [DC5](https://m3n0sd0n4ld.github.io/OSC/DC5/) | `Easy` | `Linux` | `#LFI #RCE #Nginx #log #poison #SETUID #screen` |
 
 <img src='imgs/uam.png' width='200' align='center'>
 
 | Name | Level | OS | Tags |
-| --- | :---: | :---: | :---: |
+| :--- | :---: | :---: | :---: |
 | [El coche fantástico](https://github.com/m3n0sd0n4ld/writeups/blob/master/pdfs/UAM%20-%20El%20coche%20fant%C3%A1stico%20-%20Episodio%201.pdf) | `Easy` | `Linux` | `#web #waf #xor #RCE` |
 
 ---
