@@ -27,10 +27,10 @@ uDork is a script written in Bash Scripting that uses advanced Google search tec
 | [Conceal](https://www.hackingarticles.in/conceal-hackthebox-walkthrough/) | `Hard`  | `Windows` | `#snmp #ike-scan #strongswan` |
 | [Omni](https://www.hackingarticles.in/omni-hackthebox-walkthrough/) | `Easy`  | `Windows` | `#IoT #SirepRAT.py #WDP` |
 | [Mango](https://www.hackingarticles.in/mango-hackthebox-walkthrough/) | `Medium`  | `Linux` | `#NoSQL #script #SUID #jjs #java` |
-| [Bastard](https://www.hackingarticles.in/bastard-hackthebox-walkthrough/) | `Medium`  | `Windows` | `#Drupal #SeImpersonatePrivilege` |
-| [Forest](https://www.hackingarticles.in/forest-hackthebox-walkthrough/) | `Easy`  | `Windows` | `#ExchangeWindowsPermission #Secretsdump` |
+| [Bastard](https://www.hackingarticles.in/bastard-hackthebox-walkthrough/) | `Medium`  | `Windows` | `#Drupal #RCE` |
+| [Forest](https://www.hackingarticles.in/forest-hackthebox-walkthrough/) | `Easy`  | `Windows` | `#Exchange #Secretsdump` |
 | [Doctor](https://www.hackingarticles.in/doctor-hackthebox-walkthrough/) | `Easy`  | `Linux` | `#SSTI #RCE #Splunk` |
-| [Chaos](https://www.hackingarticles.in/chaos-hackthebox-walkthrough/) | `Medium`  | `Linux` | `#WP #Roundcube #crypto #Firefox` |
+| [Chaos](https://www.hackingarticles.in/chaos-hackthebox-walkthrough/) | `Medium`  | `Linux` | `#WP #Roundcube #Firefox` |
 | [Armageddon](https://m3n0sd0n4ld.github.io/htb/Armageddon/) | `Easy`  | `Linux` | `#Drupal #Drupalgeddon2 #Snap` |
 
 <img src='imgs/tryhackme.png' width='200' align='center'>
