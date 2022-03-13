@@ -35,8 +35,8 @@ uDork is a script written in Bash Scripting that uses advanced Google search tec
 | [Lunizz CTF (Patched)](https://m3n0sd0n4ld.github.io/thm/LunizzCTF/) | `Medium` | `Linux` | `#CommandInjection #mysql #bcrypt #python #cipher` |
 | [Cat Pictures](https://m3n0sd0n4ld.github.io/thm/CatPictures/) | `Easy` | `Linux` | `#phpbb #docker #cron` |
 | [Wgel CTF](https://m3n0sd0n4ld.github.io/thm/WgelCTF/) | `Easy` | `Linux` | `#wget #passwd #SUDO` |
-| [Jack-of-All-Trades](https://m3n0sd0n4ld.github.io/thm/Jack-of-All-Trades/) | `Easy` | `Linux` | `#crypto #stego #strings` |
-| [VulnNet: dotjar](https://m3n0sd0n4ld.github.io/thm/VulnNet-dotjar/) | `Medium` | `Linux` | `#ghostcat #war #tomcat #SUDO #jar` |
+| [Jack of All Trades](https://m3n0sd0n4ld.github.io/thm/Jack-of-All-Trades/) | `Easy` | `Linux` | `#crypto #stego #strings` |
+| [VulnNet dotjar](https://m3n0sd0n4ld.github.io/thm/VulnNet-dotjar/) | `Medium` | `Linux` | `#ghostcat #war #tomcat #SUDO #jar` |
 | [KoTH Food CTF](https://m3n0sd0n4ld.github.io/thm/KoTH-Food-CTF/) | `Easy` | `Linux` | `#mysql #SETUID #screen` |
 | [KoTH Hackers](https://m3n0sd0n4ld.github.io/thm/KoTH-Hackers/) | `Medium` | `Linux` | `#ssh #privatekeys #SUDO #nano` |
 | [The Blob Blog](https://m3n0sd0n4ld.github.io/thm/The-Blob-Blog/) | `Medium` | `Linux` | `#brainfuck #vigenere #steghide #reversing` |
