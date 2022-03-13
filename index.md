@@ -44,16 +44,6 @@ uDork is a script written in Bash Scripting that uses advanced Google search tec
 | [Harder](https://m3n0sd0n4ld.github.io/thm/Harder/) | `Medium` | `Linux` | `#git #alpine #gpg` |
 | [Fusion Corp](https://m3n0sd0n4ld.github.io/thm/Fusion-Corp/) | `Hard` | `Windows` | `#kerbrute #ASReproast #LDAP #ACLs #AD` |
 | [EnterPrize](https://m3n0sd0n4ld.github.io/thm/EnterPrize/) | `Hard` | `Linux` | `#typo3 #libcustom.so #norootsquash` |
-| [Mnemonic](https://m3n0sd0n4ld.github.io/thm/Mnemonic/) | `Medium` | `Linux` | `#cracking #python #script` |
-| [Undiscovered](https://m3n0sd0n4ld.github.io/thm/Undiscovered/) | `Medium` | `Linux` | `#riteCMS #RCE #norootsquash` |
-| [Couch](https://m3n0sd0n4ld.github.io/thm/Couch/) | `Easy` | `Linux` | `#CouchDB #docker` |
-| [Empline](https://m3n0sd0n4ld.github.io/thm/Empline/) |  `Medium` | `Linux` | `#opencats #XXE #capabilities #ruby` |
-| [IDE](https://m3n0sd0n4ld.github.io/thm/IDE/) |  `Easy` | `Linux` | `#Codiad #RCE #services` |
-| [Zeno](https://m3n0sd0n4ld.github.io/thm/zeno/) | `Medium` | `Linux` | `#RestaurantManagerSystem #SQLi #RCE #services #SUDO #reboot` |
-| [Minotaur’s Labyrinth](https://m3n0sd0n4ld.github.io/thm/Minotaurs-Labyrinth/) | `Medium` | `Linux`| `#API #SQLi #Time-based #CommandInjection #script` |
-| [Lumberjack Turtle](https://m3n0sd0n4ld.github.io/thm/Lumberjack-Turtle/) | `Medium` | `Linux`| `#Log4j #Nagios #NSCA #Escape-Docker` |
-| [Flatline](https://m3n0sd0n4ld.github.io/thm/Flatline/) | `Easy` | `Windows`| `#FreeSWITCH #OpenClinic` |
-| [Oh My WebServer](https://m3n0sd0n4ld.github.io/thm/Oh-My-WebServer/) | `Medium` | `Linux`| `#Apache #PathTraversal #RCE #CVE-2021-41773 #CVE-2021-38647 #OMIGOD` |
 
 <img src='imgs/vulnhub.png' width='200' align='center'>
 
