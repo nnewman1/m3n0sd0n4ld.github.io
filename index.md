@@ -30,8 +30,6 @@ uDork is a script written in Bash Scripting that uses advanced Google search tec
 | [Iron Corp](https://www.hackingarticles.in/iron-corp-tryhackme-walkthrough) | `Hard`  | `Windows` | `#hydra #dig #SSRF #ACL` |
 | [Bookstore](https://m3n0sd0n4ld.github.io/thm/Bookstore) | `Medium`  | `Linux` | `#rest #api #python #SUID` |
 | [ConvertMyVideo](https://m3n0sd0n4ld.github.io/thm/ConvertMyVideo/) | `Medium` | `Linux` | `#commandinjection #cracking #cron` |
-| [USTOUN](https://m3n0sd0n4ld.github.io/thm/USTOUN/) | `Medium` | `Windows` | `#AD #RID #crackmapexec #mssqlclient.py` |
-| [GoldenEye](https://m3n0sd0n4ld.github.io/thm/GoldenEye/) | `Medium` | `Linux` | `#hydra #telnet #pop3 #aspell #commandInjection #overlays` |
 
 <img src='imgs/vulnhub.png' width='200' align='center'>
 
