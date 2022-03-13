@@ -31,25 +31,25 @@ uDork is a script written in Bash Scripting that uses advanced Google search tec
 | [Bookstore](https://m3n0sd0n4ld.github.io/thm/Bookstore) | `Medium`  | `Linux` | `#rest #api #python #SUID` |
 | [USTOUN](https://m3n0sd0n4ld.github.io/thm/USTOUN/) | `Medium` | `Windows` | `#AD #RID #crackmapexec #mssqlclient` |
 | [GoldenEye](https://m3n0sd0n4ld.github.io/thm/GoldenEye/) | `Medium` | `Linux` | `#hydra #telnet #pop3 #aspell #overlays` |
-| [Lunizz CTF (Patched)](https://m3n0sd0n4ld.github.io/thm/LunizzCTF/) | `Medium` | `Linux` | `#Cmd-inject #mysql #bcrypt #python #cipher` |
+| [Lunizz CTF (Patched)](https://m3n0sd0n4ld.github.io/thm/LunizzCTF/) | `Medium` | `Linux` | `#Cmd-inject #mysql #bcrypt #cipher` |
 | [Cat Pictures](https://m3n0sd0n4ld.github.io/thm/CatPictures/) | `Easy` | `Linux` | `#phpbb #docker #cron` |
 | [Wgel CTF](https://m3n0sd0n4ld.github.io/thm/WgelCTF/) | `Easy` | `Linux` | `#wget #passwd #SUDO` |
 | [Jack-of-All-Trades](https://m3n0sd0n4ld.github.io/thm/Jack-of-All-Trades/) | `Easy` | `Linux` | `#crypto #stego #strings` |
 | [VulnNet: dotjar](https://m3n0sd0n4ld.github.io/thm/VulnNet-dotjar/) | `Medium` | `Linux` | `#ghostcat #war #tomcat #SUDO #jar` |
 | [KoTH Food CTF](https://m3n0sd0n4ld.github.io/thm/KoTH-Food-CTF/) | `Easy` | `Linux` | `#mysql #SETUID #screen` |
 | [KoTH Hackers](https://m3n0sd0n4ld.github.io/thm/KoTH-Hackers/) | `Medium` | `Linux` | `#ssh #privatekeys #SUDO #nano` |
-| [The Blob Blog](https://m3n0sd0n4ld.github.io/thm/The-Blob-Blog/) | `Medium` | `Linux` | `#brainfuck #vigenere #steghide #reversing` |
+| [The Blob Blog](https://m3n0sd0n4ld.github.io/thm/The-Blob-Blog/) | `Medium` | `Linux` | `#brainfuck #steghide #reversing` |
 | [Mustacchio](https://m3n0sd0n4ld.github.io/thm/Mustacchio/) | `Easy` | `Linux` | `#XXE #pathabsolute #tail` |
 | [Harder](https://m3n0sd0n4ld.github.io/thm/Harder/) | `Medium` | `Linux` | `#git #alpine #gpg` |
-| [Fusion Corp](https://m3n0sd0n4ld.github.io/thm/Fusion-Corp/) | `Hard` | `Windows` | `#kerbrute #ASReproast #LDAP #ACLs #AD` |
+| [Fusion Corp](https://m3n0sd0n4ld.github.io/thm/Fusion-Corp/) | `Hard` | `Windows` | `#kerbrute #ASReproast #LDAP #AD` |
 | [EnterPrize](https://m3n0sd0n4ld.github.io/thm/EnterPrize/) | `Hard` | `Linux` | `#typo3 #libcustom.so #norootsquash` |
 | [Mnemonic](https://m3n0sd0n4ld.github.io/thm/Mnemonic/) | `Medium` | `Linux` | `#cracking #python #script` |
 | [Undiscovered](https://m3n0sd0n4ld.github.io/thm/Undiscovered/) | `Medium` | `Linux` | `#riteCMS #RCE #norootsquash` |
 | [Couch](https://m3n0sd0n4ld.github.io/thm/Couch/) | `Easy` | `Linux` | `#CouchDB #docker` |
 | [Empline](https://m3n0sd0n4ld.github.io/thm/Empline/) |  `Medium` | `Linux` | `#opencats #XXE #capabilities #ruby` |
 | [IDE](https://m3n0sd0n4ld.github.io/thm/IDE/) |  `Easy` | `Linux` | `#Codiad #RCE #services` |
-| [Zeno](https://m3n0sd0n4ld.github.io/thm/zeno/) | `Medium` | `Linux` | `#RestaurantManager #SQLi #RCE #services #reboot` |
-| [Minotaur’s Labyrinth](https://m3n0sd0n4ld.github.io/thm/Minotaurs-Labyrinth/) | `Medium` | `Linux`| `#API #SQLi #Time-based #CommandInjection` |
+| [Zeno](https://m3n0sd0n4ld.github.io/thm/zeno/) | `Medium` | `Linux` | `#Restaurant #SQLi #RCE #services #reboot` |
+| [Minotaur’s Labyrinth](https://m3n0sd0n4ld.github.io/thm/Minotaurs-Labyrinth/) | `Medium` | `Linux`| `#API #SQLi #Time-based #Cmd-Injection` |
 | [Lumberjack Turtle](https://m3n0sd0n4ld.github.io/thm/Lumberjack-Turtle/) | `Medium` | `Linux`| `#Log4j #Nagios #NSCA #Escape-Docker` |
 | [Flatline](https://m3n0sd0n4ld.github.io/thm/Flatline/) | `Easy` | `Windows`| `#FreeSWITCH #OpenClinic` |
 | [Oh My WebServer](https://m3n0sd0n4ld.github.io/thm/Oh-My-WebServer/) | `Medium` | `Linux`| `#Apache #CVE-2021-41773 #OMIGOD` |
