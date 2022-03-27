@@ -79,6 +79,7 @@ uDork is a script written in Bash Scripting that uses advanced Google search tec
 | [Lumberjack Turtle](https://m3n0sd0n4ld.github.io/thm/Lumberjack-Turtle/) | `Medium` | `Linux`| `#Log4j #Nagios #NSCA #Escape-Docker` |
 | [Flatline](https://m3n0sd0n4ld.github.io/thm/Flatline/) | `Easy` | `Windows`| `#FreeSWITCH #OpenClinic` |
 | [Oh My WebServer](https://m3n0sd0n4ld.github.io/thm/Oh-My-WebServer/) | `Medium` | `Linux`| `#Apache #CVE-2021-41773 #OMIGOD` |
+| [Aratus](https://m3n0sd0n4ld.github.io/thm/Aratus/) | `Medium` | `Linux`| `#tcpdump #capabilities #ansible` |
 
 <img src='imgs/vulnhub.png' width='200' align='center'>
 
